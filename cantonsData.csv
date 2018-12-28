@@ -1,0 +1,2091 @@
+Code du département,Libellé du département,Code du canton,Libellé du canton
+1,Ain,1,Ambérieu-en-Bugey
+1,Ain,2,Attignat
+1,Ain,3,Bellegarde-sur-Valserine
+1,Ain,4,Belley
+1,Ain,5,Bourg-en-Bresse-1
+1,Ain,6,Bourg-en-Bresse-2
+1,Ain,7,Ceyzériat
+1,Ain,8,Châtillon-sur-Chalaronne
+1,Ain,9,Gex
+1,Ain,10,Hauteville-Lompnes
+1,Ain,11,Lagnieu
+1,Ain,12,Meximieux
+1,Ain,13,Miribel
+1,Ain,14,Nantua
+1,Ain,15,Oyonnax
+1,Ain,16,Pont-d'Ain
+1,Ain,17,Replonges
+1,Ain,18,Saint-Etienne-du-Bois
+1,Ain,19,Saint-Genis-Pouilly
+1,Ain,20,Thoiry
+1,Ain,21,Trévoux
+1,Ain,22,Villars-les-Dombes
+1,Ain,23,Vonnas
+2,Aisne,1,Bohain-en-Vermandois
+2,Aisne,2,Château-Thierry
+2,Aisne,3,Chauny
+2,Aisne,4,Essômes-sur-Marne
+2,Aisne,5,Fère-en-Tardenois
+2,Aisne,6,Guignicourt
+2,Aisne,7,Guise
+2,Aisne,8,Hirson
+2,Aisne,9,Laon-1
+2,Aisne,10,Laon-2
+2,Aisne,11,Marle
+2,Aisne,12,Ribemont
+2,Aisne,13,Saint-Quentin-1
+2,Aisne,14,Saint-Quentin-2
+2,Aisne,15,Saint-Quentin-3
+2,Aisne,16,Soissons-1
+2,Aisne,17,Soissons-2
+2,Aisne,18,Tergnier
+2,Aisne,19,Vervins
+2,Aisne,20,Vic-sur-Aisne
+2,Aisne,21,Villers-Cotterêts
+3,Allier,1,Bellerive-sur-Allier
+3,Allier,2,Bourbon-l'Archambault
+3,Allier,3,Commentry
+3,Allier,4,Cusset
+3,Allier,5,Dompierre-sur-Besbre
+3,Allier,6,Gannat
+3,Allier,7,Huriel
+3,Allier,8,Lapalisse
+3,Allier,9,Montluçon-1
+3,Allier,10,Montluçon-2
+3,Allier,11,Montluçon-3
+3,Allier,12,Montluçon-4
+3,Allier,13,Moulins-1
+3,Allier,14,Moulins-2
+3,Allier,15,Saint-Pourçain-sur-Sioule
+3,Allier,16,Souvigny
+3,Allier,17,Vichy-1
+3,Allier,18,Vichy-2
+3,Allier,19,Yzeure
+4,Alpes-de-Haute-Provence,1,Barcelonnette
+4,Alpes-de-Haute-Provence,2,Castellane
+4,Alpes-de-Haute-Provence,3,Château-Arnoux-Saint-Auban
+4,Alpes-de-Haute-Provence,4,Digne-les-Bains-1
+4,Alpes-de-Haute-Provence,5,Digne-les-Bains-2
+4,Alpes-de-Haute-Provence,6,Forcalquier
+4,Alpes-de-Haute-Provence,7,Manosque-1
+4,Alpes-de-Haute-Provence,8,Manosque-2
+4,Alpes-de-Haute-Provence,9,Manosque-3
+4,Alpes-de-Haute-Provence,10,Oraison
+4,Alpes-de-Haute-Provence,11,Reillanne
+4,Alpes-de-Haute-Provence,12,Riez
+4,Alpes-de-Haute-Provence,13,Seyne
+4,Alpes-de-Haute-Provence,14,Sisteron
+4,Alpes-de-Haute-Provence,15,Valensole
+5,Hautes-Alpes,1,L'Argentière-la-Bessée
+5,Hautes-Alpes,2,Briançon-1
+5,Hautes-Alpes,3,Briançon-2
+5,Hautes-Alpes,4,Chorges
+5,Hautes-Alpes,5,Embrun
+5,Hautes-Alpes,6,Gap-1
+5,Hautes-Alpes,7,Gap-2
+5,Hautes-Alpes,8,Gap-3
+5,Hautes-Alpes,9,Gap-4
+5,Hautes-Alpes,10,Guillestre
+5,Hautes-Alpes,11,Laragne-Montéglin
+5,Hautes-Alpes,12,Saint-Bonnet-en-Champsaur
+5,Hautes-Alpes,13,Serres
+5,Hautes-Alpes,14,Tallard
+5,Hautes-Alpes,15,Veynes
+6,Alpes-Maritimes,1,Antibes-1
+6,Alpes-Maritimes,2,Antibes-2
+6,Alpes-Maritimes,3,Antibes-3
+6,Alpes-Maritimes,4,Beausoleil
+6,Alpes-Maritimes,5,Cagnes-sur-Mer-1
+6,Alpes-Maritimes,6,Cagnes-sur-Mer-2
+6,Alpes-Maritimes,7,Cannes-1
+6,Alpes-Maritimes,8,Cannes-2
+6,Alpes-Maritimes,9,Le Cannet
+6,Alpes-Maritimes,10,Contes
+6,Alpes-Maritimes,11,Grasse-1
+6,Alpes-Maritimes,12,Grasse-2
+6,Alpes-Maritimes,13,Mandelieu-la-Napoule
+6,Alpes-Maritimes,14,Menton
+6,Alpes-Maritimes,15,Nice-1
+6,Alpes-Maritimes,16,Nice-2
+6,Alpes-Maritimes,17,Nice-3
+6,Alpes-Maritimes,18,Nice-4
+6,Alpes-Maritimes,19,Nice-5
+6,Alpes-Maritimes,20,Nice-6
+6,Alpes-Maritimes,21,Nice-7
+6,Alpes-Maritimes,22,Nice-8
+6,Alpes-Maritimes,23,Nice-9
+6,Alpes-Maritimes,24,Tourrette-Levens
+6,Alpes-Maritimes,25,Valbonne
+6,Alpes-Maritimes,26,Vence
+6,Alpes-Maritimes,27,Villeneuve-Loubet
+7,Ardèche,1,Annonay-1
+7,Ardèche,2,Annonay-2
+7,Ardèche,3,Aubenas-1
+7,Ardèche,4,Aubenas-2
+7,Ardèche,5,Bourg-Saint-Andéol
+7,Ardèche,6,Haut-Eyrieux
+7,Ardèche,7,Guilherand-Granges
+7,Ardèche,8,Haut-Vivarais
+7,Ardèche,9,Le Pouzin
+7,Ardèche,10,Privas
+7,Ardèche,11,Sarras
+7,Ardèche,12,Berg-Helvie
+7,Ardèche,13,Haute-Ardèche
+7,Ardèche,14,Tournon-sur-Rhône
+7,Ardèche,15,Vallon-Pont-d'Arc
+7,Ardèche,16,Les Cévennes ardéchoises
+7,Ardèche,17,Rhône-Eyrieux
+8,Ardennes,1,Attigny
+8,Ardennes,2,Bogny-sur-Meuse
+8,Ardennes,3,Carignan
+8,Ardennes,4,Charleville-Mézières-1
+8,Ardennes,5,Charleville-Mézières-2
+8,Ardennes,6,Charleville-Mézières-3
+8,Ardennes,7,Charleville-Mézières-4
+8,Ardennes,8,Château-Porcien
+8,Ardennes,9,Givet
+8,Ardennes,10,Nouvion-sur-Meuse
+8,Ardennes,11,Rethel
+8,Ardennes,12,Revin
+8,Ardennes,13,Rocroi
+8,Ardennes,14,Sedan-1
+8,Ardennes,15,Sedan-2
+8,Ardennes,16,Sedan-3
+8,Ardennes,17,Signy-l'Abbaye
+8,Ardennes,18,Villers-Semeuse
+8,Ardennes,19,Vouziers
+9,Ariège,1,Haute-Ariège
+9,Ariège,2,Arize-Lèze
+9,Ariège,3,Couserans Est
+9,Ariège,4,Couserans Ouest
+9,Ariège,5,Foix
+9,Ariège,6,Mirepoix
+9,Ariège,7,Pamiers-1
+9,Ariège,8,Pamiers-2
+9,Ariège,9,Pays d'Olmes
+9,Ariège,10,Portes d'Ariège
+9,Ariège,11,Portes du Couserans
+9,Ariège,12,Sabarthès
+9,Ariège,13,Val d'Ariège
+10,Aube,1,Aix-en-Othe
+10,Aube,2,Arcis-sur-Aube
+10,Aube,3,Bar-sur-Aube
+10,Aube,4,Bar-sur-Seine
+10,Aube,5,Brienne-le-Château
+10,Aube,6,Creney-près-Troyes
+10,Aube,7,Nogent-sur-Seine
+10,Aube,8,Les Riceys
+10,Aube,9,Romilly-sur-Seine
+10,Aube,10,Saint-André-les-Vergers
+10,Aube,11,Saint-Lyé
+10,Aube,12,Troyes-1
+10,Aube,13,Troyes-2
+10,Aube,14,Troyes-3
+10,Aube,15,Troyes-4
+10,Aube,16,Troyes-5
+10,Aube,17,Vendeuvre-sur-Barse
+11,Aude,1,La Piège au Razès
+11,Aude,2,Carcassonne-1
+11,Aude,3,Carcassonne-2
+11,Aude,4,Carcassonne-3
+11,Aude,5,Le Bassin chaurien
+11,Aude,6,Les Basses Plaines de l'Aude
+11,Aude,7,Les Corbières
+11,Aude,8,Le Lézignanais
+11,Aude,9,La Région Limouxine
+11,Aude,10,La Malepère à la Montagne Noire
+11,Aude,11,Narbonne-1
+11,Aude,12,Narbonne-2
+11,Aude,13,Narbonne-3
+11,Aude,14,La Haute-Vallée de l'Aude
+11,Aude,15,Le Haut-Minervois
+11,Aude,16,Le Sud-Minervois
+11,Aude,17,Les Corbières Méditerranée
+11,Aude,18,La Montagne d'Alaric
+11,Aude,19,La Vallée de l'Orbiel
+12,Aveyron,1,Aubrac et Carladez
+12,Aveyron,2,Aveyron et Tarn
+12,Aveyron,3,Causse-Comtal
+12,Aveyron,4,Causses-Rougiers
+12,Aveyron,5,Ceor-Ségala
+12,Aveyron,6,Enne et Alzou
+12,Aveyron,7,Lot et Dourdou
+12,Aveyron,8,Lot et Montbazinois
+12,Aveyron,9,Lot et Palanges
+12,Aveyron,10,Lot et Truyère
+12,Aveyron,11,Millau-1
+12,Aveyron,12,Millau-2
+12,Aveyron,13,Monts du Réquistanais
+12,Aveyron,14,Nord-Lévezou
+12,Aveyron,15,Raspes et Lévezou
+12,Aveyron,16,Rodez-1
+12,Aveyron,17,Rodez-2
+12,Aveyron,18,Rodez-Onet
+12,Aveyron,19,Saint-Affrique
+12,Aveyron,20,Tarn et Causses
+12,Aveyron,21,Vallon
+12,Aveyron,22,Villefranche-de-Rouergue
+12,Aveyron,23,Villeneuvois et Villefranchois
+13,Bouches-du-Rhône,1,Aix-en-Provence-1
+13,Bouches-du-Rhône,2,Aix-en-Provence-2
+13,Bouches-du-Rhône,3,Allauch
+13,Bouches-du-Rhône,4,Arles
+13,Bouches-du-Rhône,5,Aubagne
+13,Bouches-du-Rhône,6,Berre-l'Etang
+13,Bouches-du-Rhône,7,Châteaurenard
+13,Bouches-du-Rhône,8,La Ciotat
+13,Bouches-du-Rhône,9,Gardanne
+13,Bouches-du-Rhône,10,Istres
+13,Bouches-du-Rhône,11,Marignane
+13,Bouches-du-Rhône,12,Marseille-1
+13,Bouches-du-Rhône,13,Marseille-2
+13,Bouches-du-Rhône,14,Marseille-3
+13,Bouches-du-Rhône,15,Marseille-4
+13,Bouches-du-Rhône,16,Marseille-5
+13,Bouches-du-Rhône,17,Marseille-6
+13,Bouches-du-Rhône,18,Marseille-7
+13,Bouches-du-Rhône,19,Marseille-8
+13,Bouches-du-Rhône,20,Marseille-9
+13,Bouches-du-Rhône,21,Marseille-10
+13,Bouches-du-Rhône,22,Marseille-11
+13,Bouches-du-Rhône,23,Marseille-12
+13,Bouches-du-Rhône,24,Martigues
+13,Bouches-du-Rhône,25,Pélissanne
+13,Bouches-du-Rhône,26,Salon-de-Provence-1
+13,Bouches-du-Rhône,27,Salon-de-Provence-2
+13,Bouches-du-Rhône,28,Trets
+13,Bouches-du-Rhône,29,Vitrolles
+14,Calvados,1,Aunay-sur-Odon
+14,Calvados,2,Bayeux
+14,Calvados,3,Bretteville-l'Orgueilleuse
+14,Calvados,4,Cabourg
+14,Calvados,5,Caen-1
+14,Calvados,6,Caen-2
+14,Calvados,7,Caen-3
+14,Calvados,8,Caen-4
+14,Calvados,9,Caen-5
+14,Calvados,10,Condé-sur-Noireau
+14,Calvados,11,Courseulles-sur-Mer
+14,Calvados,12,Evrecy
+14,Calvados,13,Falaise
+14,Calvados,14,Hérouville-Saint-Clair
+14,Calvados,15,Honfleur-Deauville
+14,Calvados,16,Ifs
+14,Calvados,17,Lisieux
+14,Calvados,18,Livarot
+14,Calvados,19,Mézidon-Canon
+14,Calvados,20,Ouistreham
+14,Calvados,21,Pont-l'Evêque
+14,Calvados,22,Thury-Harcourt
+14,Calvados,23,Trévières
+14,Calvados,24,Troarn
+14,Calvados,25,Vire
+15,Cantal,1,Arpajon-sur-Cère
+15,Cantal,2,Aurillac-1
+15,Cantal,3,Aurillac-2
+15,Cantal,4,Aurillac-3
+15,Cantal,5,Mauriac
+15,Cantal,6,Maurs
+15,Cantal,7,Murat
+15,Cantal,8,Naucelles
+15,Cantal,9,Neuvéglise
+15,Cantal,10,Riom-ès-Montagnes
+15,Cantal,11,Saint-Flour-1
+15,Cantal,12,Saint-Flour-2
+15,Cantal,13,Saint-Paul-des-Landes
+15,Cantal,14,Vic-sur-Cère
+15,Cantal,15,Ydes
+16,Charente,1,Angoulême-1
+16,Charente,2,Angoulême-2
+16,Charente,3,Angoulême-3
+16,Charente,4,Boëme-Echelle
+16,Charente,5,Boixe-et-Manslois
+16,Charente,6,Charente-Bonnieure
+16,Charente,7,Charente-Champagne
+16,Charente,8,Charente-Nord
+16,Charente,9,Charente-Sud
+16,Charente,10,Charente-Vienne
+16,Charente,11,Cognac-1
+16,Charente,12,Cognac-2
+16,Charente,13,La Couronne
+16,Charente,14,Gond-Pontouvre
+16,Charente,15,Jarnac
+16,Charente,16,Touvre-et-Braconne
+16,Charente,17,Tude-et-Lavalette
+16,Charente,18,Val de Nouère
+16,Charente,19,Val de Tardoire
+17,Charente-Maritime,1,Aytré
+17,Charente-Maritime,2,Chaniers
+17,Charente-Maritime,3,Châtelaillon-Plage
+17,Charente-Maritime,4,Ile d'Oléron
+17,Charente-Maritime,5,Ile de Ré
+17,Charente-Maritime,6,La Jarrie
+17,Charente-Maritime,7,Jonzac
+17,Charente-Maritime,8,Lagord
+17,Charente-Maritime,9,Marans
+17,Charente-Maritime,10,Marennes
+17,Charente-Maritime,11,Matha
+17,Charente-Maritime,12,Pons
+17,Charente-Maritime,13,Rochefort
+17,Charente-Maritime,14,La Rochelle-1
+17,Charente-Maritime,15,La Rochelle-2
+17,Charente-Maritime,16,La Rochelle-3
+17,Charente-Maritime,17,Royan
+17,Charente-Maritime,18,Saint-Jean-d'Angély
+17,Charente-Maritime,19,Saint-Porchaire
+17,Charente-Maritime,20,Saintes
+17,Charente-Maritime,21,Saintonge Estuaire
+17,Charente-Maritime,22,Saujon
+17,Charente-Maritime,23,Surgères
+17,Charente-Maritime,24,Thénac
+17,Charente-Maritime,25,Tonnay-Charente
+17,Charente-Maritime,26,La Tremblade
+17,Charente-Maritime,27,Les Trois Monts
+18,Cher,1,Aubigny-sur-Nère
+18,Cher,2,Avord
+18,Cher,3,Bourges-1
+18,Cher,4,Bourges-2
+18,Cher,5,Bourges-3
+18,Cher,6,Bourges-4
+18,Cher,7,Chârost
+18,Cher,8,Châteaumeillant
+18,Cher,9,Dun-sur-Auron
+18,Cher,10,La Guerche-sur-l'Aubois
+18,Cher,11,Mehun-sur-Yèvre
+18,Cher,12,Saint-Amand-Montrond
+18,Cher,13,Saint-Doulchard
+18,Cher,14,Saint-Germain-du-Puy
+18,Cher,15,Saint-Martin-d'Auxigny
+18,Cher,16,Sancerre
+18,Cher,17,Trouy
+18,Cher,18,Vierzon-1
+18,Cher,19,Vierzon-2
+19,Corrèze,1,Allassac
+19,Corrèze,2,Argentat
+19,Corrèze,3,Brive-la-Gaillarde-1
+19,Corrèze,4,Brive-la-Gaillarde-2
+19,Corrèze,5,Brive-la-Gaillarde-3
+19,Corrèze,6,Brive-la-Gaillarde-4
+19,Corrèze,7,Egletons
+19,Corrèze,8,Haute-Dordogne
+19,Corrèze,9,Malemort-sur-Corrèze
+19,Corrèze,10,Midi Corrézien
+19,Corrèze,11,Naves
+19,Corrèze,12,Plateau de Millevaches
+19,Corrèze,13,Saint-Pantaléon-de-Larche
+19,Corrèze,14,Sainte-Fortunade
+19,Corrèze,15,Seilhac-Monédières
+19,Corrèze,16,Tulle
+19,Corrèze,17,Ussel
+19,Corrèze,18,Uzerche
+19,Corrèze,19,L'Yssandonnais
+2A,Corse-du-Sud,1,Ajaccio-1
+2A,Corse-du-Sud,2,Ajaccio-2
+2A,Corse-du-Sud,3,Ajaccio-3
+2A,Corse-du-Sud,4,Ajaccio-4
+2A,Corse-du-Sud,5,Ajaccio-5
+2A,Corse-du-Sud,6,Bavella
+2A,Corse-du-Sud,7,Grand Sud
+2A,Corse-du-Sud,8,Gravona-Prunelli
+2A,Corse-du-Sud,9,Sartenais-Valinco
+2A,Corse-du-Sud,10,Sevi-Sorru-Cinarca
+2A,Corse-du-Sud,11,Taravo-Ornano
+2B,Haute-Corse,1,Bastia-1
+2B,Haute-Corse,2,Bastia-2
+2B,Haute-Corse,3,Bastia-3
+2B,Haute-Corse,4,Bastia-4
+2B,Haute-Corse,5,Biguglia-Nebbio
+2B,Haute-Corse,6,Borgo
+2B,Haute-Corse,7,Calvi
+2B,Haute-Corse,8,Cap Corse
+2B,Haute-Corse,9,Casinca-Fiumalto
+2B,Haute-Corse,10,Castagniccia
+2B,Haute-Corse,11,Corte
+2B,Haute-Corse,12,Fiumorbo-Castello
+2B,Haute-Corse,13,Ghisonaccia
+2B,Haute-Corse,14,Golo-Morosaglia
+2B,Haute-Corse,15,L'Ile-Rousse
+21,Côte-d'Or,1,Arnay-le-Duc
+21,Côte-d'Or,2,Auxonne
+21,Côte-d'Or,3,Beaune
+21,Côte-d'Or,4,Brazey-en-Plaine
+21,Côte-d'Or,5,Châtillon-sur-Seine
+21,Côte-d'Or,6,Chenôve
+21,Côte-d'Or,7,Chevigny-Saint-Sauveur
+21,Côte-d'Or,8,Dijon-1
+21,Côte-d'Or,9,Dijon-2
+21,Côte-d'Or,10,Dijon-3
+21,Côte-d'Or,11,Dijon-4
+21,Côte-d'Or,12,Dijon-5
+21,Côte-d'Or,13,Dijon-6
+21,Côte-d'Or,14,Fontaine-lès-Dijon
+21,Côte-d'Or,15,Genlis
+21,Côte-d'Or,16,Is-sur-Tille
+21,Côte-d'Or,17,Ladoix-Serrigny
+21,Côte-d'Or,18,Longvic
+21,Côte-d'Or,19,Montbard
+21,Côte-d'Or,20,Nuits-Saint-Georges
+21,Côte-d'Or,21,Saint-Apollinaire
+21,Côte-d'Or,22,Semur-en-Auxois
+21,Côte-d'Or,23,Talant
+22,Côtes-d'Armor,1,Bégard
+22,Côtes-d'Armor,2,Broons
+22,Côtes-d'Armor,3,Callac
+22,Côtes-d'Armor,4,Dinan
+22,Côtes-d'Armor,5,Guingamp
+22,Côtes-d'Armor,6,Lamballe
+22,Côtes-d'Armor,7,Lannion
+22,Côtes-d'Armor,8,Lanvallay
+22,Côtes-d'Armor,9,Loudéac
+22,Côtes-d'Armor,10,Mûr-de-Bretagne
+22,Côtes-d'Armor,11,Paimpol
+22,Côtes-d'Armor,12,Perros-Guirec
+22,Côtes-d'Armor,13,Plaintel
+22,Côtes-d'Armor,14,Plancoët
+22,Côtes-d'Armor,15,Plélo
+22,Côtes-d'Armor,16,Plénée-Jugon
+22,Côtes-d'Armor,17,Pléneuf-Val-André
+22,Côtes-d'Armor,18,Plérin
+22,Côtes-d'Armor,19,Pleslin-Trigavou
+22,Côtes-d'Armor,20,Plestin-les-Grèves
+22,Côtes-d'Armor,21,Ploufragan
+22,Côtes-d'Armor,22,Plouha
+22,Côtes-d'Armor,23,Rostrenen
+22,Côtes-d'Armor,24,Saint-Brieuc-1
+22,Côtes-d'Armor,25,Saint-Brieuc-2
+22,Côtes-d'Armor,26,Trégueux
+22,Côtes-d'Armor,27,Tréguier
+23,Creuse,1,Ahun
+23,Creuse,2,Aubusson
+23,Creuse,3,Auzances
+23,Creuse,4,Bonnat
+23,Creuse,5,Bourganeuf
+23,Creuse,6,Boussac
+23,Creuse,7,Dun-le-Palestel
+23,Creuse,8,Evaux-les-Bains
+23,Creuse,9,Felletin
+23,Creuse,10,Gouzon
+23,Creuse,11,Le Grand-Bourg
+23,Creuse,12,Guéret-1
+23,Creuse,13,Guéret-2
+23,Creuse,14,Saint-Vaury
+23,Creuse,15,La Souterraine
+24,Dordogne,1,Bergerac-1
+24,Dordogne,2,Bergerac-2
+24,Dordogne,3,Brantôme
+24,Dordogne,4,Coulounieix-Chamiers
+24,Dordogne,5,Haut-Périgord Noir
+24,Dordogne,6,Isle-Loue-Auvézère
+24,Dordogne,7,Isle-Manoire
+24,Dordogne,8,Lalinde
+24,Dordogne,9,Montpon-Ménestérol
+24,Dordogne,10,Pays de la Force
+24,Dordogne,11,Pays de Montaigne et Gurson
+24,Dordogne,12,Périgord Central
+24,Dordogne,13,Périgord Vert Nontronnais
+24,Dordogne,14,Périgueux-1
+24,Dordogne,15,Périgueux-2
+24,Dordogne,16,Ribérac
+24,Dordogne,17,Saint-Astier
+24,Dordogne,18,Sarlat-la-Canéda
+24,Dordogne,19,Sud-Bergeracois
+24,Dordogne,20,Terrasson-Lavilledieu
+24,Dordogne,21,Thiviers
+24,Dordogne,22,Trélissac
+24,Dordogne,23,Vallée Dordogne
+24,Dordogne,24,Vallée de l'Isle
+24,Dordogne,25,Vallée de l'Homme
+25,Doubs,1,Audincourt
+25,Doubs,2,Baume-les-Dames
+25,Doubs,3,Bavans
+25,Doubs,4,Besançon-1
+25,Doubs,5,Besançon-2
+25,Doubs,6,Besançon-3
+25,Doubs,7,Besançon-4
+25,Doubs,8,Besançon-5
+25,Doubs,9,Besançon-6
+25,Doubs,10,Bethoncourt
+25,Doubs,11,Frasne
+25,Doubs,12,Maîche
+25,Doubs,13,Montbéliard
+25,Doubs,14,Morteau
+25,Doubs,15,Ornans
+25,Doubs,16,Pontarlier
+25,Doubs,17,Saint-Vit
+25,Doubs,18,Valdahon
+25,Doubs,19,Valentigney
+26,Drôme,1,Bourg-de-Péage
+26,Drôme,2,Crest
+26,Drôme,3,Dieulefit
+26,Drôme,4,Le Diois
+26,Drôme,5,Drôme des collines
+26,Drôme,6,Grignan
+26,Drôme,7,Loriol-sur-Drôme
+26,Drôme,8,Montélimar-1
+26,Drôme,9,Montélimar-2
+26,Drôme,10,Nyons et Baronnies
+26,Drôme,11,Romans-sur-Isère
+26,Drôme,12,Saint-Vallier
+26,Drôme,13,Tain-l'Hermitage
+26,Drôme,14,Le Tricastin
+26,Drôme,15,Valence-1
+26,Drôme,16,Valence-2
+26,Drôme,17,Valence-3
+26,Drôme,18,Valence-4
+26,Drôme,19,Vercors-Monts du Matin
+27,Eure,1,Les Andelys
+27,Eure,2,Bernay
+27,Eure,3,Beuzeville
+27,Eure,4,Bourg-Achard
+27,Eure,5,Bourgtheroulde-Infreville
+27,Eure,6,Breteuil
+27,Eure,7,Brionne
+27,Eure,8,Conches-en-Ouche
+27,Eure,9,Evreux-1
+27,Eure,10,Evreux-2
+27,Eure,11,Evreux-3
+27,Eure,12,Gaillon
+27,Eure,13,Gisors
+27,Eure,14,Louviers
+27,Eure,15,Le Neubourg
+27,Eure,16,Pacy-sur-Eure
+27,Eure,17,Pont-Audemer
+27,Eure,18,Pont-de-l'Arche
+27,Eure,19,Romilly-sur-Andelle
+27,Eure,20,Saint-André-de-l'Eure
+27,Eure,21,Val-de-Reuil
+27,Eure,22,Verneuil-sur-Avre
+27,Eure,23,Vernon
+28,Eure-et-Loir,1,Anet
+28,Eure-et-Loir,2,Auneau
+28,Eure-et-Loir,3,Brou
+28,Eure-et-Loir,4,Chartres-1
+28,Eure-et-Loir,5,Chartres-2
+28,Eure-et-Loir,6,Chartres-3
+28,Eure-et-Loir,7,Châteaudun
+28,Eure-et-Loir,8,Dreux-1
+28,Eure-et-Loir,9,Dreux-2
+28,Eure-et-Loir,10,Epernon
+28,Eure-et-Loir,11,Illiers-Combray
+28,Eure-et-Loir,12,Lucé
+28,Eure-et-Loir,13,Nogent-le-Rotrou
+28,Eure-et-Loir,14,Saint-Lubin-des-Joncherets
+28,Eure-et-Loir,15,Voves
+29,Finistère,1,Brest-1
+29,Finistère,2,Brest-2
+29,Finistère,3,Brest-3
+29,Finistère,4,Brest-4
+29,Finistère,5,Brest-5
+29,Finistère,6,Briec
+29,Finistère,7,Carhaix-Plouguer
+29,Finistère,8,Concarneau
+29,Finistère,9,Crozon
+29,Finistère,10,Douarnenez
+29,Finistère,11,Fouesnant
+29,Finistère,12,Guipavas
+29,Finistère,13,Landerneau
+29,Finistère,14,Landivisiau
+29,Finistère,15,Lesneven
+29,Finistère,16,Moëlan-sur-Mer
+29,Finistère,17,Morlaix
+29,Finistère,18,Plabennec
+29,Finistère,19,Plonéour-Lanvern
+29,Finistère,20,Plouigneau
+29,Finistère,21,Pont-de-Buis-lès-Quimerch
+29,Finistère,22,Pont-l'Abbé
+29,Finistère,23,Quimper-1
+29,Finistère,24,Quimper-2
+29,Finistère,25,Quimperlé
+29,Finistère,26,Saint-Pol-de-Léon
+29,Finistère,27,Saint-Renan
+30,Gard,1,Aigues-Mortes
+30,Gard,2,Alès-1
+30,Gard,3,Alès-2
+30,Gard,4,Alès-3
+30,Gard,5,Bagnols-sur-Cèze
+30,Gard,6,Beaucaire
+30,Gard,7,Calvisson
+30,Gard,8,La Grand-Combe
+30,Gard,9,Marguerittes
+30,Gard,10,Nîmes-1
+30,Gard,11,Nîmes-2
+30,Gard,12,Nîmes-3
+30,Gard,13,Nîmes-4
+30,Gard,14,Pont-Saint-Esprit
+30,Gard,15,Quissac
+30,Gard,16,Redessan
+30,Gard,17,Roquemaure
+30,Gard,18,Rousson
+30,Gard,19,Saint-Gilles
+30,Gard,20,Uzès
+30,Gard,21,Vauvert
+30,Gard,22,Le Vigan
+30,Gard,23,Villeneuve-lès-Avignon
+31,Haute-Garonne,1,Auterive
+31,Haute-Garonne,2,Bagnères-de-Luchon
+31,Haute-Garonne,3,Blagnac
+31,Haute-Garonne,4,Castanet-Tolosan
+31,Haute-Garonne,5,Castelginest
+31,Haute-Garonne,6,Cazères
+31,Haute-Garonne,7,Escalquens
+31,Haute-Garonne,8,Léguevin
+31,Haute-Garonne,9,Muret
+31,Haute-Garonne,10,Pechbonnieu
+31,Haute-Garonne,11,Plaisance-du-Touch
+31,Haute-Garonne,12,Portet-sur-Garonne
+31,Haute-Garonne,13,Revel
+31,Haute-Garonne,14,Saint-Gaudens
+31,Haute-Garonne,15,Toulouse-1
+31,Haute-Garonne,16,Toulouse-2
+31,Haute-Garonne,17,Toulouse-3
+31,Haute-Garonne,18,Toulouse-4
+31,Haute-Garonne,19,Toulouse-5
+31,Haute-Garonne,20,Toulouse-6
+31,Haute-Garonne,21,Toulouse-7
+31,Haute-Garonne,22,Toulouse-8
+31,Haute-Garonne,23,Toulouse-9
+31,Haute-Garonne,24,Toulouse-10
+31,Haute-Garonne,25,Toulouse-11
+31,Haute-Garonne,26,Tournefeuille
+31,Haute-Garonne,27,Villemur-sur-Tarn
+32,Gers,1,Adour-Gersoise
+32,Gers,2,Armagnac-Ténarèze
+32,Gers,3,Astarac-Gimone
+32,Gers,4,Auch-1
+32,Gers,5,Auch-2
+32,Gers,6,Auch-3
+32,Gers,7,Baïse-Armagnac
+32,Gers,8,Fezensac
+32,Gers,9,Fleurance-Lomagne
+32,Gers,10,Gascogne-Auscitaine
+32,Gers,11,Gimone-Arrats
+32,Gers,12,Grand-Bas-Armagnac
+32,Gers,13,L'Isle-Jourdain
+32,Gers,14,Lectoure-Lomagne
+32,Gers,15,Mirande-Astarac
+32,Gers,16,Pardiac-Rivière-Basse
+32,Gers,17,Val-de-Save
+33,Gironde,1,Andernos-les-Bains
+33,Gironde,2,Bordeaux-1
+33,Gironde,3,Bordeaux-2
+33,Gironde,4,Bordeaux-3
+33,Gironde,5,Bordeaux-4
+33,Gironde,6,Bordeaux-5
+33,Gironde,7,Le Bouscat
+33,Gironde,8,La Brède
+33,Gironde,9,Cenon
+33,Gironde,10,Les Coteaux de Dordogne
+33,Gironde,11,Créon
+33,Gironde,12,L'Entre-Deux-Mers
+33,Gironde,13,L'Estuaire
+33,Gironde,14,Gujan-Mestras
+33,Gironde,15,Les Landes des Graves
+33,Gironde,16,Le Libournais-Fronsadais
+33,Gironde,17,Lormont
+33,Gironde,18,Mérignac-1
+33,Gironde,19,Mérignac-2
+33,Gironde,20,Le Nord-Gironde
+33,Gironde,21,Le Nord-Libournais
+33,Gironde,22,Le Nord-Médoc
+33,Gironde,23,Pessac-1
+33,Gironde,24,Pessac-2
+33,Gironde,25,Les Portes du Médoc
+33,Gironde,26,La Presqu'île
+33,Gironde,27,Le Réolais et Les Bastides
+33,Gironde,28,Saint-Médard-en-Jalles
+33,Gironde,29,Le Sud-Gironde
+33,Gironde,30,Le Sud-Médoc
+33,Gironde,31,Talence
+33,Gironde,32,La Teste-de-Buch
+33,Gironde,33,Villenave-d'Ornon
+34,Hérault,1,Agde
+34,Hérault,2,Béziers-1
+34,Hérault,3,Béziers-2
+34,Hérault,4,Béziers-3
+34,Hérault,5,Cazouls-lès-Béziers
+34,Hérault,6,Clermont-l'Hérault
+34,Hérault,7,Le Crès
+34,Hérault,8,Frontignan
+34,Hérault,9,Gignac
+34,Hérault,10,Lattes
+34,Hérault,11,Lodève
+34,Hérault,12,Lunel
+34,Hérault,13,Mauguio
+34,Hérault,14,Mèze
+34,Hérault,15,Montpellier-1
+34,Hérault,16,Montpellier-2
+34,Hérault,17,Montpellier-3
+34,Hérault,18,Montpellier-4
+34,Hérault,19,Montpellier-5
+34,Hérault,20,Montpellier - Castelnau-le-Lez
+34,Hérault,21,Pézenas
+34,Hérault,22,Pignan
+34,Hérault,23,Saint-Gély-du-Fesc
+34,Hérault,24,Saint-Pons-de-Thomières
+34,Hérault,25,Sète
+35,Ille-et-Vilaine,1,Antrain
+35,Ille-et-Vilaine,2,Bain-de-Bretagne
+35,Ille-et-Vilaine,3,Betton
+35,Ille-et-Vilaine,4,Bruz
+35,Ille-et-Vilaine,5,Châteaugiron
+35,Ille-et-Vilaine,6,Combourg
+35,Ille-et-Vilaine,7,Dol-de-Bretagne
+35,Ille-et-Vilaine,8,Fougères-1
+35,Ille-et-Vilaine,9,Fougères-2
+35,Ille-et-Vilaine,10,La Guerche-de-Bretagne
+35,Ille-et-Vilaine,11,Guichen
+35,Ille-et-Vilaine,12,Janzé
+35,Ille-et-Vilaine,13,Liffré
+35,Ille-et-Vilaine,14,Melesse
+35,Ille-et-Vilaine,15,Montauban-de-Bretagne
+35,Ille-et-Vilaine,16,Montfort-sur-Meu
+35,Ille-et-Vilaine,17,Redon
+35,Ille-et-Vilaine,18,Rennes-1
+35,Ille-et-Vilaine,19,Rennes-2
+35,Ille-et-Vilaine,20,Rennes-3
+35,Ille-et-Vilaine,21,Rennes-4
+35,Ille-et-Vilaine,22,Rennes-5
+35,Ille-et-Vilaine,23,Rennes-6
+35,Ille-et-Vilaine,24,Le Rheu
+35,Ille-et-Vilaine,25,Saint-Malo-1
+35,Ille-et-Vilaine,26,Saint-Malo-2
+35,Ille-et-Vilaine,27,Vitré
+36,Indre,1,Ardentes
+36,Indre,2,Argenton-sur-Creuse
+36,Indre,3,Le Blanc
+36,Indre,4,Buzançais
+36,Indre,5,Châteauroux-1
+36,Indre,6,Châteauroux-2
+36,Indre,7,Châteauroux-3
+36,Indre,8,La Châtre
+36,Indre,9,Issoudun
+36,Indre,10,Levroux
+36,Indre,11,Neuvy-Saint-Sépulchre
+36,Indre,12,Saint-Gaultier
+36,Indre,13,Valençay
+37,Indre-et-Loire,1,Amboise
+37,Indre-et-Loire,2,Ballan-Miré
+37,Indre-et-Loire,3,Bléré
+37,Indre-et-Loire,4,Château-Renault
+37,Indre-et-Loire,5,Chinon
+37,Indre-et-Loire,6,Descartes
+37,Indre-et-Loire,7,Joué-lès-Tours
+37,Indre-et-Loire,8,Langeais
+37,Indre-et-Loire,9,Loches
+37,Indre-et-Loire,10,Montlouis-sur-Loire
+37,Indre-et-Loire,11,Monts
+37,Indre-et-Loire,12,Saint-Cyr-sur-Loire
+37,Indre-et-Loire,13,Sainte-Maure-de-Touraine
+37,Indre-et-Loire,14,Saint-Pierre-des-Corps
+37,Indre-et-Loire,15,Tours-1
+37,Indre-et-Loire,16,Tours-2
+37,Indre-et-Loire,17,Tours-3
+37,Indre-et-Loire,18,Tours-4
+37,Indre-et-Loire,19,Vouvray
+38,Isère,1,Bièvre
+38,Isère,2,Bourgoin-Jallieu
+38,Isère,3,Chartreuse-Guiers
+38,Isère,4,Charvieu-Chavagneux
+38,Isère,5,Echirolles
+38,Isère,6,Fontaine-Seyssinet
+38,Isère,7,Fontaine-Vercors
+38,Isère,8,Le Grand-Lemps
+38,Isère,9,Grenoble-1
+38,Isère,10,Grenoble-2
+38,Isère,11,Grenoble-3
+38,Isère,12,Grenoble-4
+38,Isère,13,Le Haut-Grésivaudan
+38,Isère,14,L'Isle-d'Abeau
+38,Isère,15,Matheysine-Trièves
+38,Isère,16,Meylan
+38,Isère,17,Morestel
+38,Isère,18,Le Moyen Grésivaudan
+38,Isère,19,Oisans-Romanche
+38,Isère,20,Le Pont-de-Claix
+38,Isère,21,Roussillon
+38,Isère,22,Saint-Martin-d'Hères
+38,Isère,23,Le Sud Grésivaudan
+38,Isère,24,La Tour-du-Pin
+38,Isère,25,Tullins
+38,Isère,26,La Verpillière
+38,Isère,27,Vienne-1
+38,Isère,28,Vienne-2
+38,Isère,29,Voiron
+39,Jura,1,Arbois
+39,Jura,2,Authume
+39,Jura,3,Bletterans
+39,Jura,4,Champagnole
+39,Jura,5,Dole-1
+39,Jura,6,Dole-2
+39,Jura,7,Lons-le-Saunier-1
+39,Jura,8,Lons-le-Saunier-2
+39,Jura,9,Moirans-en-Montagne
+39,Jura,10,Mont-sous-Vaudrey
+39,Jura,11,Morez
+39,Jura,12,Poligny
+39,Jura,13,Saint-Amour
+39,Jura,14,Saint-Claude
+39,Jura,15,Saint-Laurent-en-Grandvaux
+39,Jura,16,Saint-Lupicin
+39,Jura,17,Tavaux
+40,Landes,1,Adour Armagnac
+40,Landes,2,Chalosse Tursan
+40,Landes,3,Côte d'Argent
+40,Landes,4,Coteau de Chalosse
+40,Landes,5,Dax-1
+40,Landes,6,Dax-2
+40,Landes,7,Grands Lacs
+40,Landes,8,Haute Lande Armagnac
+40,Landes,9,Marensin Sud
+40,Landes,10,Mont-de-Marsan-1
+40,Landes,11,Mont-de-Marsan-2
+40,Landes,12,Orthe et Arrigans
+40,Landes,13,Pays Morcenais Tarusate
+40,Landes,14,Pays Tyrossais
+40,Landes,15,Seignanx
+41,Loir-et-Cher,1,La Beauce
+41,Loir-et-Cher,2,Blois-1
+41,Loir-et-Cher,3,Blois-2
+41,Loir-et-Cher,4,Blois-3
+41,Loir-et-Cher,5,Chambord
+41,Loir-et-Cher,6,Montoire-sur-le-Loir
+41,Loir-et-Cher,7,Montrichard
+41,Loir-et-Cher,8,Onzain
+41,Loir-et-Cher,9,Le Perche
+41,Loir-et-Cher,10,Romorantin-Lanthenay
+41,Loir-et-Cher,11,Saint-Aignan
+41,Loir-et-Cher,12,Selles-sur-Cher
+41,Loir-et-Cher,13,La Sologne
+41,Loir-et-Cher,14,Vendôme
+41,Loir-et-Cher,15,Vineuil
+42,Loire,1,Andrézieux-Bouthéon
+42,Loire,2,Boën-sur-Lignon
+42,Loire,3,Charlieu
+42,Loire,4,Le Coteau
+42,Loire,5,Feurs
+42,Loire,6,Firminy
+42,Loire,7,Montbrison
+42,Loire,8,Le Pilat
+42,Loire,9,Renaison
+42,Loire,10,Rive-de-Gier
+42,Loire,11,Roanne-1
+42,Loire,12,Roanne-2
+42,Loire,13,Saint-Chamond
+42,Loire,14,Saint-Etienne-1
+42,Loire,15,Saint-Etienne-2
+42,Loire,16,Saint-Etienne-3
+42,Loire,17,Saint-Etienne-4
+42,Loire,18,Saint-Etienne-5
+42,Loire,19,Saint-Etienne-6
+42,Loire,20,Saint-Just-Saint-Rambert
+42,Loire,21,Sorbiers
+43,Haute-Loire,1,Aurec-sur-Loire
+43,Haute-Loire,2,Bas-en-Basset
+43,Haute-Loire,3,Boutières
+43,Haute-Loire,4,Brioude
+43,Haute-Loire,5,Deux Rivières et Vallées
+43,Haute-Loire,6,Emblavez-et-Meygal
+43,Haute-Loire,7,Gorges de l'Allier-Gévaudan
+43,Haute-Loire,8,Mézenc
+43,Haute-Loire,9,Monistrol-sur-Loire
+43,Haute-Loire,10,Pays de Lafayette
+43,Haute-Loire,11,Plateau du Haut-Velay granitique
+43,Haute-Loire,12,Le Puy-en-Velay-1
+43,Haute-Loire,13,Le Puy-en-Velay-2
+43,Haute-Loire,14,Le Puy-en-Velay-3
+43,Haute-Loire,15,Le Puy-en-Velay-4
+43,Haute-Loire,16,Saint-Paulien
+43,Haute-Loire,17,Sainte-Florine
+43,Haute-Loire,18,Velay volcanique
+43,Haute-Loire,19,Yssingeaux
+44,Loire-Atlantique,1,Ancenis
+44,Loire-Atlantique,2,La Baule-Escoublac
+44,Loire-Atlantique,3,Blain
+44,Loire-Atlantique,4,Carquefou
+44,Loire-Atlantique,5,La Chapelle-sur-Erdre
+44,Loire-Atlantique,6,Châteaubriant
+44,Loire-Atlantique,7,Clisson
+44,Loire-Atlantique,8,Guémené-Penfao
+44,Loire-Atlantique,9,Guérande
+44,Loire-Atlantique,10,Machecoul
+44,Loire-Atlantique,11,Nantes-1
+44,Loire-Atlantique,12,Nantes-2
+44,Loire-Atlantique,13,Nantes-3
+44,Loire-Atlantique,14,Nantes-4
+44,Loire-Atlantique,15,Nantes-5
+44,Loire-Atlantique,16,Nantes-6
+44,Loire-Atlantique,17,Nantes-7
+44,Loire-Atlantique,18,Nort-sur-Erdre
+44,Loire-Atlantique,19,Pontchâteau
+44,Loire-Atlantique,20,Pornic
+44,Loire-Atlantique,21,Rezé-1
+44,Loire-Atlantique,22,Rezé-2
+44,Loire-Atlantique,23,Saint-Brevin-les-Pins
+44,Loire-Atlantique,24,Saint-Herblain-1
+44,Loire-Atlantique,25,Saint-Herblain-2
+44,Loire-Atlantique,26,Saint-Nazaire-1
+44,Loire-Atlantique,27,Saint-Nazaire-2
+44,Loire-Atlantique,28,Saint-Philbert-de-Grand-Lieu
+44,Loire-Atlantique,29,Saint-Sébastien-sur-Loire
+44,Loire-Atlantique,30,Vallet
+44,Loire-Atlantique,31,Vertou
+45,Loiret,1,Beaugency
+45,Loiret,2,Châlette-sur-Loing
+45,Loiret,3,Châteauneuf-sur-Loire
+45,Loiret,4,Courtenay
+45,Loiret,5,La Ferté-Saint-Aubin
+45,Loiret,6,Fleury-les-Aubrais
+45,Loiret,7,Gien
+45,Loiret,8,Lorris
+45,Loiret,9,Malesherbes
+45,Loiret,10,Meung-sur-Loire
+45,Loiret,11,Montargis
+45,Loiret,12,Olivet
+45,Loiret,13,Orléans-1
+45,Loiret,14,Orléans-2
+45,Loiret,15,Orléans-3
+45,Loiret,16,Orléans-4
+45,Loiret,17,Pithiviers
+45,Loiret,18,Saint-Jean-de-Braye
+45,Loiret,19,Saint-Jean-de-la-Ruelle
+45,Loiret,20,Saint-Jean-le-Blanc
+45,Loiret,21,Sully-sur-Loire
+46,Lot,1,Cahors-1
+46,Lot,2,Cahors-2
+46,Lot,3,Cahors-3
+46,Lot,4,Causse et Bouriane
+46,Lot,5,Causse et Vallées
+46,Lot,6,Cère et Ségala
+46,Lot,7,Figeac-1
+46,Lot,8,Figeac-2
+46,Lot,9,Gourdon
+46,Lot,10,Gramat
+46,Lot,11,Lacapelle-Marival
+46,Lot,12,Luzech
+46,Lot,13,Marches du Sud-Quercy
+46,Lot,14,Martel
+46,Lot,15,Puy-l'Evêque
+46,Lot,16,Saint-Céré
+46,Lot,17,Souillac
+47,Lot-et-Garonne,1,Agen-1
+47,Lot-et-Garonne,2,Agen-2
+47,Lot-et-Garonne,3,Agen-3
+47,Lot-et-Garonne,4,Agen-4
+47,Lot-et-Garonne,5,L'Albret
+47,Lot-et-Garonne,6,Le Confluent
+47,Lot-et-Garonne,7,Les Coteaux de Guyenne
+47,Lot-et-Garonne,8,Les Forêts de Gascogne
+47,Lot-et-Garonne,9,Le Fumélois
+47,Lot-et-Garonne,10,Le Haut Agenais Périgord
+47,Lot-et-Garonne,11,Lavardac
+47,Lot-et-Garonne,12,Le Livradais
+47,Lot-et-Garonne,13,Marmande-1
+47,Lot-et-Garonne,14,Marmande-2
+47,Lot-et-Garonne,15,L'Ouest agenais
+47,Lot-et-Garonne,16,Le Pays de Serres
+47,Lot-et-Garonne,17,Le Sud-Est agenais
+47,Lot-et-Garonne,18,Tonneins
+47,Lot-et-Garonne,19,Le Val du Dropt
+47,Lot-et-Garonne,20,Villeneuve-sur-Lot-1
+47,Lot-et-Garonne,21,Villeneuve-sur-Lot-2
+48,Lozère,1,Aumont-Aubrac
+48,Lozère,2,La Canourgue
+48,Lozère,3,Chirac
+48,Lozère,4,Le Collet-de-Dèze
+48,Lozère,5,Florac
+48,Lozère,6,Grandrieu
+48,Lozère,7,Langogne
+48,Lozère,8,Marvejols
+48,Lozère,9,Mende-1
+48,Lozère,10,Mende-2
+48,Lozère,11,Saint-Alban-sur-Limagnole
+48,Lozère,12,Saint-Chély-d'Apcher
+48,Lozère,13,Saint-Etienne-du-Valdonnez
+49,Maine-et-Loire,1,Angers-1
+49,Maine-et-Loire,2,Angers-2
+49,Maine-et-Loire,3,Angers-3
+49,Maine-et-Loire,4,Angers-4
+49,Maine-et-Loire,5,Angers-5
+49,Maine-et-Loire,6,Angers-6
+49,Maine-et-Loire,7,Angers-7
+49,Maine-et-Loire,8,Beaufort-en-Vallée
+49,Maine-et-Loire,9,Beaupréau
+49,Maine-et-Loire,10,Chalonnes-sur-Loire
+49,Maine-et-Loire,11,Chemillé-Melay
+49,Maine-et-Loire,12,Cholet-1
+49,Maine-et-Loire,13,Cholet-2
+49,Maine-et-Loire,14,Doué-la-Fontaine
+49,Maine-et-Loire,15,Longué-Jumelles
+49,Maine-et-Loire,16,La Pommeraye
+49,Maine-et-Loire,17,Les Ponts-de-Cé
+49,Maine-et-Loire,18,Saint-Macaire-en-Mauges
+49,Maine-et-Loire,19,Saumur
+49,Maine-et-Loire,20,Segré
+49,Maine-et-Loire,21,Tiercé
+50,Manche,1,Agon-Coutainville
+50,Manche,2,Avranches
+50,Manche,3,Bréhal
+50,Manche,4,Bricquebec
+50,Manche,5,Carentan
+50,Manche,6,Cherbourg-Octeville-1
+50,Manche,7,Cherbourg-Octeville-2
+50,Manche,8,Cherbourg-Octeville-3
+50,Manche,9,Condé-sur-Vire
+50,Manche,10,Coutances
+50,Manche,11,Créances
+50,Manche,12,Equeurdreville-Hainneville
+50,Manche,13,Granville
+50,Manche,14,La Hague
+50,Manche,15,Isigny-le-Buat
+50,Manche,16,Le Mortainais
+50,Manche,17,Les Pieux
+50,Manche,18,Pont-Hébert
+50,Manche,19,Pontorson
+50,Manche,20,Quettreville-sur-Sienne
+50,Manche,21,Saint-Hilaire-du-Harcouët
+50,Manche,22,Saint-Lô-1
+50,Manche,23,Saint-Lô-2
+50,Manche,24,Tourlaville
+50,Manche,25,Valognes
+50,Manche,26,Val-de-Saire
+50,Manche,27,Villedieu-les-Poêles
+51,Marne,1,Argonne Suippe et Vesle
+51,Marne,2,Bourgogne
+51,Marne,3,Châlons-en-Champagne-1
+51,Marne,4,Châlons-en-Champagne-2
+51,Marne,5,Châlons-en-Champagne-3
+51,Marne,6,Dormans-Paysages de Champagne
+51,Marne,7,Epernay-1
+51,Marne,8,Epernay-2
+51,Marne,9,Fismes-Montagne de Reims
+51,Marne,10,Mourmelon-Vesle et Monts de Champagne
+51,Marne,11,Reims-1
+51,Marne,12,Reims-2
+51,Marne,13,Reims-3
+51,Marne,14,Reims-4
+51,Marne,15,Reims-5
+51,Marne,16,Reims-6
+51,Marne,17,Reims-7
+51,Marne,18,Reims-8
+51,Marne,19,Reims-9
+51,Marne,20,Sermaize-les-Bains
+51,Marne,21,Sézanne-Brie et Champagne
+51,Marne,22,Vertus-Plaine Champenoise
+51,Marne,23,Vitry-le-François-Champagne et Der
+52,Haute-Marne,1,Bologne
+52,Haute-Marne,2,Bourbonne-les-Bains
+52,Haute-Marne,3,Chalindrey
+52,Haute-Marne,4,Châteauvillain
+52,Haute-Marne,5,Chaumont-1
+52,Haute-Marne,6,Chaumont-2
+52,Haute-Marne,7,Chaumont-3
+52,Haute-Marne,8,Eurville-Bienville
+52,Haute-Marne,9,Joinville
+52,Haute-Marne,10,Langres
+52,Haute-Marne,11,Nogent
+52,Haute-Marne,12,Poissons
+52,Haute-Marne,13,Saint-Dizier-1
+52,Haute-Marne,14,Saint-Dizier-2
+52,Haute-Marne,15,Saint-Dizier-3
+52,Haute-Marne,16,Villegusien-le-Lac
+52,Haute-Marne,17,Wassy
+53,Mayenne,1,Azé
+53,Mayenne,2,Bonchamp-lès-Laval
+53,Mayenne,3,Château-Gontier
+53,Mayenne,4,Cossé-le-Vivien
+53,Mayenne,5,Ernée
+53,Mayenne,6,Evron
+53,Mayenne,7,Gorron
+53,Mayenne,8,L'Huisserie
+53,Mayenne,9,Lassay-les-Châteaux
+53,Mayenne,10,Laval-1
+53,Mayenne,11,Laval-2
+53,Mayenne,12,Laval-3
+53,Mayenne,13,Loiron
+53,Mayenne,14,Mayenne
+53,Mayenne,15,Meslay-du-Maine
+53,Mayenne,16,Saint-Berthevin
+53,Mayenne,17,Villaines-la-Juhel
+54,Meurthe-et-Moselle,1,Baccarat
+54,Meurthe-et-Moselle,2,Entre Seille et Meurthe
+54,Meurthe-et-Moselle,3,Grand Couronné
+54,Meurthe-et-Moselle,4,Jarny
+54,Meurthe-et-Moselle,5,Jarville-la-Malgrange
+54,Meurthe-et-Moselle,6,Laxou
+54,Meurthe-et-Moselle,7,Longwy
+54,Meurthe-et-Moselle,8,Lunéville-1
+54,Meurthe-et-Moselle,9,Lunéville-2
+54,Meurthe-et-Moselle,10,Meine au Saintois
+54,Meurthe-et-Moselle,11,Mont-Saint-Martin
+54,Meurthe-et-Moselle,12,Nancy-1
+54,Meurthe-et-Moselle,13,Nancy-2
+54,Meurthe-et-Moselle,14,Nancy-3
+54,Meurthe-et-Moselle,15,Neuves-Maisons
+54,Meurthe-et-Moselle,16,Le Nord-Toulois
+54,Meurthe-et-Moselle,17,Pays de Briey
+54,Meurthe-et-Moselle,18,Pont-à-Mousson
+54,Meurthe-et-Moselle,19,Saint-Max
+54,Meurthe-et-Moselle,20,Toul
+54,Meurthe-et-Moselle,21,Val de Lorraine Sud
+54,Meurthe-et-Moselle,22,Vandoeuvre-lès-Nancy
+54,Meurthe-et-Moselle,23,Villerupt
+55,Meuse,1,Ancerville
+55,Meuse,2,Bar-le-Duc-1
+55,Meuse,3,Bar-le-Duc-2
+55,Meuse,4,Belleville-sur-Meuse
+55,Meuse,5,Bouligny
+55,Meuse,6,Clermont-en-Argonne
+55,Meuse,7,Commercy
+55,Meuse,8,Dieue-sur-Meuse
+55,Meuse,9,Etain
+55,Meuse,10,Ligny-en-Barrois
+55,Meuse,11,Montmédy
+55,Meuse,12,Revigny-sur-Ornain
+55,Meuse,13,Saint-Mihiel
+55,Meuse,14,Stenay
+55,Meuse,15,Vaucouleurs
+55,Meuse,16,Verdun-1
+55,Meuse,17,Verdun-2
+56,Morbihan,1,Auray
+56,Morbihan,2,Gourin
+56,Morbihan,3,Grand-Champ
+56,Morbihan,4,Guer
+56,Morbihan,5,Guidel
+56,Morbihan,6,Hennebont
+56,Morbihan,7,Lanester
+56,Morbihan,8,Lorient-1
+56,Morbihan,9,Lorient-2
+56,Morbihan,10,Moréac
+56,Morbihan,11,Muzillac
+56,Morbihan,12,Ploemeur
+56,Morbihan,13,Ploërmel
+56,Morbihan,14,Pluvigner
+56,Morbihan,15,Pontivy
+56,Morbihan,16,Questembert
+56,Morbihan,17,Quiberon
+56,Morbihan,18,Séné
+56,Morbihan,19,Vannes-1
+56,Morbihan,20,Vannes-2
+56,Morbihan,21,Vannes-3
+57,Moselle,1,Algrange
+57,Moselle,2,Bitche
+57,Moselle,3,Boulay-Moselle
+57,Moselle,4,Bouzonville
+57,Moselle,5,Les Coteaux de Moselle
+57,Moselle,6,Fameck
+57,Moselle,7,Faulquemont
+57,Moselle,8,Forbach
+57,Moselle,9,Freyming-Merlebach
+57,Moselle,10,Hayange
+57,Moselle,11,Metz-1
+57,Moselle,12,Metz-2
+57,Moselle,13,Metz-3
+57,Moselle,14,Metzervisse
+57,Moselle,15,Montigny-lès-Metz
+57,Moselle,16,Le Pays Messin
+57,Moselle,17,Phalsbourg
+57,Moselle,18,Rombas
+57,Moselle,19,Saint-Avold
+57,Moselle,20,Sarralbe
+57,Moselle,21,Sarrebourg
+57,Moselle,22,Sarreguemines
+57,Moselle,23,Le Saulnois
+57,Moselle,24,Le Sillon Mosellan
+57,Moselle,25,Stiring-Wendel
+57,Moselle,26,Thionville
+57,Moselle,27,Yutz
+58,Nièvre,1,La Charité-sur-Loire
+58,Nièvre,2,Château-Chinon
+58,Nièvre,3,Clamecy
+58,Nièvre,4,Corbigny
+58,Nièvre,5,Cosne-Cours-sur-Loire
+58,Nièvre,6,Decize
+58,Nièvre,7,Fourchambault
+58,Nièvre,8,Guérigny
+58,Nièvre,9,Imphy
+58,Nièvre,10,Luzy
+58,Nièvre,11,Nevers-1
+58,Nièvre,12,Nevers-2
+58,Nièvre,13,Nevers-3
+58,Nièvre,14,Nevers-4
+58,Nièvre,15,Pouilly-sur-Loire
+58,Nièvre,16,Saint-Pierre-le-Moûtier
+58,Nièvre,17,Varennes-Vauzelles
+59,Nord,1,Aniche
+59,Nord,2,Annoeullin
+59,Nord,3,Anzin
+59,Nord,4,Armentières
+59,Nord,5,Aulnoye-Aymeries
+59,Nord,6,Aulnoy-lez-Valenciennes
+59,Nord,7,Avesnes-sur-Helpe
+59,Nord,8,Bailleul
+59,Nord,9,Cambrai
+59,Nord,10,Le Cateau-Cambrésis
+59,Nord,11,Caudry
+59,Nord,12,Coudekerque-Branche
+59,Nord,13,Croix
+59,Nord,14,Denain
+59,Nord,15,Douai
+59,Nord,16,Dunkerque-1
+59,Nord,17,Dunkerque-2
+59,Nord,18,Faches-Thumesnil
+59,Nord,19,Fourmies
+59,Nord,20,Grande-Synthe
+59,Nord,21,Hazebrouck
+59,Nord,22,Lambersart
+59,Nord,23,Lille-1
+59,Nord,24,Lille-2
+59,Nord,25,Lille-3
+59,Nord,26,Lille-4
+59,Nord,27,Lille-5
+59,Nord,28,Lille-6
+59,Nord,29,Marly
+59,Nord,30,Maubeuge
+59,Nord,31,Orchies
+59,Nord,32,Roubaix-1
+59,Nord,33,Roubaix-2
+59,Nord,34,Saint-Amand-les-Eaux
+59,Nord,35,Sin-le-Noble
+59,Nord,36,Templeuve
+59,Nord,37,Tourcoing-1
+59,Nord,38,Tourcoing-2
+59,Nord,39,Valenciennes
+59,Nord,40,Villeneuve-d'Ascq
+59,Nord,41,Wormhout
+60,Oise,1,Beauvais-1
+60,Oise,2,Beauvais-2
+60,Oise,3,Chantilly
+60,Oise,4,Chaumont-en-Vexin
+60,Oise,5,Clermont
+60,Oise,6,Compiègne-1
+60,Oise,7,Compiègne-2
+60,Oise,8,Creil
+60,Oise,9,Crépy-en-Valois
+60,Oise,10,Estrées-Saint-Denis
+60,Oise,11,Grandvilliers
+60,Oise,12,Méru
+60,Oise,13,Montataire
+60,Oise,14,Mouy
+60,Oise,15,Nanteuil-le-Haudouin
+60,Oise,16,Nogent-sur-Oise
+60,Oise,17,Noyon
+60,Oise,18,Pont-Sainte-Maxence
+60,Oise,19,Saint-Just-en-Chaussée
+60,Oise,20,Senlis
+60,Oise,21,Thourotte
+61,Orne,1,L'Aigle
+61,Orne,2,Alençon-1
+61,Orne,3,Alençon-2
+61,Orne,4,Argentan-1
+61,Orne,5,Argentan-2
+61,Orne,6,Athis-de-l'Orne
+61,Orne,7,Bagnoles-de-l'Orne
+61,Orne,8,Bretoncelles
+61,Orne,9,Ceton
+61,Orne,10,Damigny
+61,Orne,11,Domfront
+61,Orne,12,La Ferté-Macé
+61,Orne,13,Flers-1
+61,Orne,14,Flers-2
+61,Orne,15,Magny-le-Désert
+61,Orne,16,Mortagne-au-Perche
+61,Orne,17,Radon
+61,Orne,18,Rai
+61,Orne,19,Sées
+61,Orne,20,Tourouvre
+61,Orne,21,Vimoutiers
+62,Pas-de-Calais,1,Aire-sur-la-Lys
+62,Pas-de-Calais,2,Arras-1
+62,Pas-de-Calais,3,Arras-2
+62,Pas-de-Calais,4,Arras-3
+62,Pas-de-Calais,5,Auchel
+62,Pas-de-Calais,6,Auxi-le-Château
+62,Pas-de-Calais,7,Avesnes-le-Comte
+62,Pas-de-Calais,8,Avion
+62,Pas-de-Calais,9,Bapaume
+62,Pas-de-Calais,10,Berck
+62,Pas-de-Calais,11,Béthune
+62,Pas-de-Calais,12,Beuvry
+62,Pas-de-Calais,13,Boulogne-sur-Mer-1
+62,Pas-de-Calais,14,Boulogne-sur-Mer-2
+62,Pas-de-Calais,15,Brebières
+62,Pas-de-Calais,16,Bruay-la-Buissière
+62,Pas-de-Calais,17,Bully-les-Mines
+62,Pas-de-Calais,18,Calais-1
+62,Pas-de-Calais,19,Calais-2
+62,Pas-de-Calais,20,Calais-3
+62,Pas-de-Calais,21,Carvin
+62,Pas-de-Calais,22,Desvres
+62,Pas-de-Calais,23,Douvrin
+62,Pas-de-Calais,24,Etaples
+62,Pas-de-Calais,25,Fruges
+62,Pas-de-Calais,26,Harnes
+62,Pas-de-Calais,27,Hénin-Beaumont-1
+62,Pas-de-Calais,28,Hénin-Beaumont-2
+62,Pas-de-Calais,29,Lens
+62,Pas-de-Calais,30,Liévin
+62,Pas-de-Calais,31,Lillers
+62,Pas-de-Calais,32,Longuenesse
+62,Pas-de-Calais,33,Lumbres
+62,Pas-de-Calais,34,Marck
+62,Pas-de-Calais,35,Noeux-les-Mines
+62,Pas-de-Calais,36,Outreau
+62,Pas-de-Calais,37,Saint-Omer
+62,Pas-de-Calais,38,Saint-Pol-sur-Ternoise
+62,Pas-de-Calais,39,Wingles
+63,Puy-de-Dôme,1,Aigueperse
+63,Puy-de-Dôme,2,Ambert
+63,Puy-de-Dôme,3,Aubière
+63,Puy-de-Dôme,4,Beaumont
+63,Puy-de-Dôme,5,Billom
+63,Puy-de-Dôme,6,Brassac-les-Mines
+63,Puy-de-Dôme,7,Cébazat
+63,Puy-de-Dôme,8,Chamalières
+63,Puy-de-Dôme,9,Châtel-Guyon
+63,Puy-de-Dôme,10,Clermont-Ferrand-1
+63,Puy-de-Dôme,11,Clermont-Ferrand-2
+63,Puy-de-Dôme,12,Clermont-Ferrand-3
+63,Puy-de-Dôme,13,Clermont-Ferrand-4
+63,Puy-de-Dôme,14,Clermont-Ferrand-5
+63,Puy-de-Dôme,15,Clermont-Ferrand-6
+63,Puy-de-Dôme,16,Cournon-d'Auvergne
+63,Puy-de-Dôme,17,Gerzat
+63,Puy-de-Dôme,18,Issoire
+63,Puy-de-Dôme,19,Lezoux
+63,Puy-de-Dôme,20,Maringues
+63,Puy-de-Dôme,21,Les Martres-de-Veyre
+63,Puy-de-Dôme,22,Les Monts du Livradois
+63,Puy-de-Dôme,23,Orcines
+63,Puy-de-Dôme,24,Pont-du-Château
+63,Puy-de-Dôme,25,Riom
+63,Puy-de-Dôme,26,Saint-Eloy-les-Mines
+63,Puy-de-Dôme,27,Saint-Georges-de-Mons
+63,Puy-de-Dôme,28,Saint-Ours
+63,Puy-de-Dôme,29,Le Sancy
+63,Puy-de-Dôme,30,Thiers
+63,Puy-de-Dôme,31,Vic-le-Comte
+64,Pyrénées-Atlantiques,1,Anglet
+64,Pyrénées-Atlantiques,2,Artix et Pays de Soubestre
+64,Pyrénées-Atlantiques,3,Baïgura et Mondarrain
+64,Pyrénées-Atlantiques,4,Bayonne-1
+64,Pyrénées-Atlantiques,5,Bayonne-2
+64,Pyrénées-Atlantiques,6,Bayonne-3
+64,Pyrénées-Atlantiques,7,Biarritz
+64,Pyrénées-Atlantiques,8,Billère et Coteaux de Jurançon
+64,Pyrénées-Atlantiques,9,Le Cœur de Béarn
+64,Pyrénées-Atlantiques,10,Hendaye-Côte Basque-Sud
+64,Pyrénées-Atlantiques,11,"Lescar, Gave et Terres du Pont-Long"
+64,Pyrénées-Atlantiques,12,Montagne Basque
+64,Pyrénées-Atlantiques,13,Nive-Adour
+64,Pyrénées-Atlantiques,14,Oloron-Sainte-Marie-1
+64,Pyrénées-Atlantiques,15,Oloron-Sainte-Marie-2
+64,Pyrénées-Atlantiques,16,Orthez et Terres des Gaves et du Sel
+64,Pyrénées-Atlantiques,17,"Ouzom, Gave et Rives du Neez"
+64,Pyrénées-Atlantiques,18,Pau-1
+64,Pyrénées-Atlantiques,19,Pau-2
+64,Pyrénées-Atlantiques,20,Pau-3
+64,Pyrénées-Atlantiques,21,Pau-4
+64,Pyrénées-Atlantiques,22,"Pays de Bidache, Amikuze et Ostibarre"
+64,Pyrénées-Atlantiques,23,Pays de Morlaàs et du Montanérès
+64,Pyrénées-Atlantiques,24,Saint-Jean-de-Luz
+64,Pyrénées-Atlantiques,25,Terres des Luys et Coteaux du Vic-Bilh
+64,Pyrénées-Atlantiques,26,Ustaritz-Vallées de Nive et Nivelle
+64,Pyrénées-Atlantiques,27,Vallées de l'Ousse et du Lagoin
+65,Hautes-Pyrénées,1,Aureilhan
+65,Hautes-Pyrénées,2,Bordères-sur-l'Echez
+65,Hautes-Pyrénées,3,Les Coteaux
+65,Hautes-Pyrénées,4,La Haute-Bigorre
+65,Hautes-Pyrénées,5,Lourdes-1
+65,Hautes-Pyrénées,6,Lourdes-2
+65,Hautes-Pyrénées,7,Moyen Adour
+65,Hautes-Pyrénées,8,"Neste, Aure et Louron"
+65,Hautes-Pyrénées,9,Ossun
+65,Hautes-Pyrénées,10,Tarbes-1
+65,Hautes-Pyrénées,11,Tarbes-2
+65,Hautes-Pyrénées,12,Tarbes-3
+65,Hautes-Pyrénées,13,Val d'Adour-Rustan-Madiranais
+65,Hautes-Pyrénées,14,La Vallée de l'Arros et des Baïses
+65,Hautes-Pyrénées,15,La Vallée de la Barousse
+65,Hautes-Pyrénées,16,La Vallée des Gaves
+65,Hautes-Pyrénées,17,Vic-en-Bigorre
+66,Pyrénées-Orientales,1,Les Aspres
+66,Pyrénées-Orientales,2,Le Canigou
+66,Pyrénées-Orientales,3,La Côte Sableuse
+66,Pyrénées-Orientales,4,La Côte Salanquaise
+66,Pyrénées-Orientales,5,La Côte Vermeille
+66,Pyrénées-Orientales,6,Perpignan-1
+66,Pyrénées-Orientales,7,Perpignan-2
+66,Pyrénées-Orientales,8,Perpignan-3
+66,Pyrénées-Orientales,9,Perpignan-4
+66,Pyrénées-Orientales,10,Perpignan-5
+66,Pyrénées-Orientales,11,Perpignan-6
+66,Pyrénées-Orientales,12,La Plaine d'Illibéris
+66,Pyrénées-Orientales,13,Les Pyrénées Catalanes
+66,Pyrénées-Orientales,14,Le Ribéral
+66,Pyrénées-Orientales,15,La Vallée de l'Agly
+66,Pyrénées-Orientales,16,La Vallée de la Têt
+66,Pyrénées-Orientales,17,Vallespir-Albères
+67,Bas-Rhin,1,Bischwiller
+67,Bas-Rhin,2,Bouxwiller
+67,Bas-Rhin,3,Brumath
+67,Bas-Rhin,4,Erstein
+67,Bas-Rhin,5,Haguenau
+67,Bas-Rhin,6,Hoenheim
+67,Bas-Rhin,7,Illkirch-Graffenstaden
+67,Bas-Rhin,8,Ingwiller
+67,Bas-Rhin,9,Lingolsheim
+67,Bas-Rhin,10,Molsheim
+67,Bas-Rhin,11,Mutzig
+67,Bas-Rhin,12,Obernai
+67,Bas-Rhin,13,Reichshoffen
+67,Bas-Rhin,14,Saverne
+67,Bas-Rhin,15,Schiltigheim
+67,Bas-Rhin,16,Sélestat
+67,Bas-Rhin,17,Strasbourg-1
+67,Bas-Rhin,18,Strasbourg-2
+67,Bas-Rhin,19,Strasbourg-3
+67,Bas-Rhin,20,Strasbourg-4
+67,Bas-Rhin,21,Strasbourg-5
+67,Bas-Rhin,22,Strasbourg-6
+67,Bas-Rhin,23,Wissembourg
+68,Haut-Rhin,1,Altkirch
+68,Haut-Rhin,2,Brunstatt
+68,Haut-Rhin,3,Cernay
+68,Haut-Rhin,4,Colmar-1
+68,Haut-Rhin,5,Colmar-2
+68,Haut-Rhin,6,Ensisheim
+68,Haut-Rhin,7,Guebwiller
+68,Haut-Rhin,8,Kingersheim
+68,Haut-Rhin,9,Masevaux
+68,Haut-Rhin,10,Mulhouse-1
+68,Haut-Rhin,11,Mulhouse-2
+68,Haut-Rhin,12,Mulhouse-3
+68,Haut-Rhin,13,Rixheim
+68,Haut-Rhin,14,Saint-Louis
+68,Haut-Rhin,15,Sainte-Marie-aux-Mines
+68,Haut-Rhin,16,Wintzenheim
+68,Haut-Rhin,17,Wittenheim
+69,Rhône,1,Anse
+69,Rhône,2,L'Arbresle
+69,Rhône,3,Belleville
+69,Rhône,4,Le Bois-d'Oingt
+69,Rhône,5,Brignais
+69,Rhône,6,Genas
+69,Rhône,7,Gleizé
+69,Rhône,8,Mornant
+69,Rhône,9,Saint-Symphorien-d'Ozon
+69,Rhône,10,Tarare
+69,Rhône,11,Thizy-les-Bourgs
+69,Rhône,12,Vaugneray
+69,Rhône,13,Villefranche-sur-Saône
+69,Rhône,99,Métropole de Lyon (canton fictif)
+70,Haute-Saône,1,Dampierre-sur-Salon
+70,Haute-Saône,2,Gray
+70,Haute-Saône,3,Héricourt-1
+70,Haute-Saône,4,Héricourt-2
+70,Haute-Saône,5,Jussey
+70,Haute-Saône,6,Lure-1
+70,Haute-Saône,7,Lure-2
+70,Haute-Saône,8,Luxeuil-les-Bains
+70,Haute-Saône,9,Marnay
+70,Haute-Saône,10,Mélisey
+70,Haute-Saône,11,Port-sur-Saône
+70,Haute-Saône,12,Rioz
+70,Haute-Saône,13,Saint-Loup-sur-Semouse
+70,Haute-Saône,14,Scey-sur-Saône-et-Saint-Albin
+70,Haute-Saône,15,Vesoul-1
+70,Haute-Saône,16,Vesoul-2
+70,Haute-Saône,17,Villersexel
+71,Saône-et-Loire,1,Autun-1
+71,Saône-et-Loire,2,Autun-2
+71,Saône-et-Loire,3,Blanzy
+71,Saône-et-Loire,4,Chagny
+71,Saône-et-Loire,5,Chalon-sur-Saône-1
+71,Saône-et-Loire,6,Chalon-sur-Saône-2
+71,Saône-et-Loire,7,Chalon-sur-Saône-3
+71,Saône-et-Loire,8,La Chapelle-de-Guinchay
+71,Saône-et-Loire,9,Charolles
+71,Saône-et-Loire,10,Chauffailles
+71,Saône-et-Loire,11,Cluny
+71,Saône-et-Loire,12,Le Creusot-1
+71,Saône-et-Loire,13,Le Creusot-2
+71,Saône-et-Loire,14,Cuiseaux
+71,Saône-et-Loire,15,Digoin
+71,Saône-et-Loire,16,Gergy
+71,Saône-et-Loire,17,Givry
+71,Saône-et-Loire,18,Gueugnon
+71,Saône-et-Loire,19,Hurigny
+71,Saône-et-Loire,20,Louhans
+71,Saône-et-Loire,21,Mâcon-1
+71,Saône-et-Loire,22,Mâcon-2
+71,Saône-et-Loire,23,Montceau-les-Mines
+71,Saône-et-Loire,24,Ouroux-sur-Saône
+71,Saône-et-Loire,25,Paray-le-Monial
+71,Saône-et-Loire,26,Pierre-de-Bresse
+71,Saône-et-Loire,27,Saint-Rémy
+71,Saône-et-Loire,28,Saint-Vallier
+71,Saône-et-Loire,29,Tournus
+72,Sarthe,1,Bonnétable
+72,Sarthe,2,Changé
+72,Sarthe,3,Château-du-Loir
+72,Sarthe,4,Ecommoy
+72,Sarthe,5,La Ferté-Bernard
+72,Sarthe,6,La Flèche
+72,Sarthe,7,Loué
+72,Sarthe,8,Le Lude
+72,Sarthe,9,Mamers
+72,Sarthe,10,Le Mans-1
+72,Sarthe,11,Le Mans-2
+72,Sarthe,12,Le Mans-3
+72,Sarthe,13,Le Mans-4
+72,Sarthe,14,Le Mans-5
+72,Sarthe,15,Le Mans-6
+72,Sarthe,16,Le Mans-7
+72,Sarthe,17,Sablé-sur-Sarthe
+72,Sarthe,18,Saint-Calais
+72,Sarthe,19,Savigné-l'Evêque
+72,Sarthe,20,Sillé-le-Guillaume
+72,Sarthe,21,La Suze-sur-Sarthe
+73,Savoie,1,Aix-les-Bains-1
+73,Savoie,2,Aix-les-Bains-2
+73,Savoie,3,Albertville-1
+73,Savoie,4,Albertville-2
+73,Savoie,5,Bourg-Saint-Maurice
+73,Savoie,6,Bugey savoyard
+73,Savoie,7,Chambéry-1
+73,Savoie,8,Chambéry-2
+73,Savoie,9,Chambéry-3
+73,Savoie,10,Modane
+73,Savoie,11,Montmélian
+73,Savoie,12,La Motte-Servolex
+73,Savoie,13,Moûtiers
+73,Savoie,14,Le Pont-de-Beauvoisin
+73,Savoie,15,La Ravoire
+73,Savoie,16,Saint-Alban-Leysse
+73,Savoie,17,Saint-Jean-de-Maurienne
+73,Savoie,18,Saint-Pierre-d'Albigny
+73,Savoie,19,Ugine
+74,Haute-Savoie,1,Annecy-1
+74,Haute-Savoie,2,Annecy-2
+74,Haute-Savoie,3,Annecy-le-Vieux
+74,Haute-Savoie,4,Annemasse
+74,Haute-Savoie,5,Bonneville
+74,Haute-Savoie,6,Cluses
+74,Haute-Savoie,7,Evian-les-Bains
+74,Haute-Savoie,8,Faverges
+74,Haute-Savoie,9,Gaillard
+74,Haute-Savoie,10,Le Mont-Blanc
+74,Haute-Savoie,11,La Roche-sur-Foron
+74,Haute-Savoie,12,Rumilly
+74,Haute-Savoie,13,Saint-Julien-en-Genevois
+74,Haute-Savoie,14,Sallanches
+74,Haute-Savoie,15,Sciez
+74,Haute-Savoie,16,Seynod
+74,Haute-Savoie,17,Thonon-les-Bains
+75,Paris,15,C
+75,Paris,16,C
+75,Paris,17,C
+75,Paris,18,C
+75,Paris,19,C
+75,Paris,20,C
+75,Paris,21,C
+75,Paris,22,C
+75,Paris,23,C
+75,Paris,24,C
+75,Paris,25,C
+75,Paris,26,C
+75,Paris,27,C
+75,Paris,28,C
+75,Paris,29,C
+75,Paris,30,C
+75,Paris,31,C
+75,Paris,32,C
+75,Paris,33,C
+75,Paris,34,C
+76,Seine-Maritime,1,Barentin
+76,Seine-Maritime,2,Bois-Guillaume
+76,Seine-Maritime,3,Bolbec
+76,Seine-Maritime,4,Canteleu
+76,Seine-Maritime,5,Caudebec-lès-Elbeuf
+76,Seine-Maritime,6,Darnétal
+76,Seine-Maritime,7,Dieppe-1
+76,Seine-Maritime,8,Dieppe-2
+76,Seine-Maritime,9,Elbeuf
+76,Seine-Maritime,10,Eu
+76,Seine-Maritime,11,Fécamp
+76,Seine-Maritime,12,Gournay-en-Bray
+76,Seine-Maritime,13,Le Grand-Quevilly
+76,Seine-Maritime,14,Le Havre-1
+76,Seine-Maritime,15,Le Havre-2
+76,Seine-Maritime,16,Le Havre-3
+76,Seine-Maritime,17,Le Havre-4
+76,Seine-Maritime,18,Le Havre-5
+76,Seine-Maritime,19,Le Havre-6
+76,Seine-Maritime,20,Luneray
+76,Seine-Maritime,21,Le Mesnil-Esnard
+76,Seine-Maritime,22,Mont-Saint-Aignan
+76,Seine-Maritime,23,Neufchâtel-en-Bray
+76,Seine-Maritime,24,Notre-Dame-de-Bondeville
+76,Seine-Maritime,25,Notre-Dame-de-Gravenchon
+76,Seine-Maritime,26,Octeville-sur-Mer
+76,Seine-Maritime,27,Le Petit-Quevilly
+76,Seine-Maritime,28,Rouen-1
+76,Seine-Maritime,29,Rouen-2
+76,Seine-Maritime,30,Rouen-3
+76,Seine-Maritime,31,Saint-Etienne-du-Rouvray
+76,Seine-Maritime,32,Saint-Romain-de-Colbosc
+76,Seine-Maritime,33,Saint-Valery-en-Caux
+76,Seine-Maritime,34,Sotteville-lès-Rouen
+76,Seine-Maritime,35,Yvetot
+77,Seine-et-Marne,1,Champs-sur-Marne
+77,Seine-et-Marne,2,Chelles
+77,Seine-et-Marne,3,Claye-Souilly
+77,Seine-et-Marne,4,Combs-la-Ville
+77,Seine-et-Marne,5,Coulommiers
+77,Seine-et-Marne,6,La Ferté-sous-Jouarre
+77,Seine-et-Marne,7,Fontainebleau
+77,Seine-et-Marne,8,Fontenay-Trésigny
+77,Seine-et-Marne,9,Lagny-sur-Marne
+77,Seine-et-Marne,10,Meaux
+77,Seine-et-Marne,11,Melun
+77,Seine-et-Marne,12,Mitry-Mory
+77,Seine-et-Marne,13,Montereau-Fault-Yonne
+77,Seine-et-Marne,14,Nangis
+77,Seine-et-Marne,15,Nemours
+77,Seine-et-Marne,16,Ozoir-la-Ferrière
+77,Seine-et-Marne,17,Pontault-Combault
+77,Seine-et-Marne,18,Provins
+77,Seine-et-Marne,19,Saint-Fargeau-Ponthierry
+77,Seine-et-Marne,20,Savigny-le-Temple
+77,Seine-et-Marne,21,Serris
+77,Seine-et-Marne,22,Torcy
+77,Seine-et-Marne,23,Villeparisis
+78,Yvelines,1,Aubergenville
+78,Yvelines,2,Bonnières-sur-Seine
+78,Yvelines,3,Chatou
+78,Yvelines,4,Le Chesnay
+78,Yvelines,5,Conflans-Sainte-Honorine
+78,Yvelines,6,Houilles
+78,Yvelines,7,Limay
+78,Yvelines,8,Mantes-la-Jolie
+78,Yvelines,9,Maurepas
+78,Yvelines,10,Montigny-le-Bretonneux
+78,Yvelines,11,Les Mureaux
+78,Yvelines,12,Plaisir
+78,Yvelines,13,Poissy
+78,Yvelines,14,Rambouillet
+78,Yvelines,15,Saint-Cyr-l'Ecole
+78,Yvelines,16,Saint-Germain-en-Laye
+78,Yvelines,17,Sartrouville
+78,Yvelines,18,Trappes
+78,Yvelines,19,Verneuil-sur-Seine
+78,Yvelines,20,Versailles-1
+78,Yvelines,21,Versailles-2
+79,Deux-Sèvres,1,Autize-Egray
+79,Deux-Sèvres,2,Bressuire
+79,Deux-Sèvres,3,Celles-sur-Belle
+79,Deux-Sèvres,4,Cerizay
+79,Deux-Sèvres,5,Frontenay-Rohan-Rohan
+79,Deux-Sèvres,6,La Gâtine
+79,Deux-Sèvres,7,Mauléon
+79,Deux-Sèvres,8,Melle
+79,Deux-Sèvres,9,Mignon-et-Boutonne
+79,Deux-Sèvres,10,Niort-1
+79,Deux-Sèvres,11,Niort-2
+79,Deux-Sèvres,12,Niort-3
+79,Deux-Sèvres,13,Parthenay
+79,Deux-Sèvres,14,La Plaine Niortaise
+79,Deux-Sèvres,15,Saint-Maixent-l'Ecole
+79,Deux-Sèvres,16,Thouars
+79,Deux-Sèvres,17,Le Val de Thouet
+80,Somme,1,Abbeville-1
+80,Somme,2,Abbeville-2
+80,Somme,3,Ailly-sur-Noye
+80,Somme,4,Ailly-sur-Somme
+80,Somme,5,Albert
+80,Somme,6,Amiens-1
+80,Somme,7,Amiens-2
+80,Somme,8,Amiens-3
+80,Somme,9,Amiens-4
+80,Somme,10,Amiens-5
+80,Somme,11,Amiens-6
+80,Somme,12,Amiens-7
+80,Somme,13,Corbie
+80,Somme,14,Doullens
+80,Somme,15,Flixecourt
+80,Somme,16,Friville-Escarbotin
+80,Somme,17,Gamaches
+80,Somme,18,Ham
+80,Somme,19,Moreuil
+80,Somme,20,Péronne
+80,Somme,21,Poix-de-Picardie
+80,Somme,22,Roye
+80,Somme,23,Rue
+81,Tarn,1,Albi-1
+81,Tarn,2,Albi-2
+81,Tarn,3,Albi-3
+81,Tarn,4,Albi-4
+81,Tarn,5,Carmaux-1 Le Ségala
+81,Tarn,6,Carmaux-2 Vallée du Cérou
+81,Tarn,7,Castres-1
+81,Tarn,8,Castres-2
+81,Tarn,9,Castres-3
+81,Tarn,10,Les Deux Rives
+81,Tarn,11,Gaillac
+81,Tarn,12,Graulhet
+81,Tarn,13,Le Haut Dadou
+81,Tarn,14,Les Hautes Terres d'Oc
+81,Tarn,15,Lavaur Cocagne
+81,Tarn,16,Mazamet-1
+81,Tarn,17,Mazamet-2 Vallée du Thoré
+81,Tarn,18,La Montagne noire
+81,Tarn,19,Le Pastel
+81,Tarn,20,Plaine de l'Agoût
+81,Tarn,21,Les Portes du Tarn
+81,Tarn,22,Saint-Juéry
+81,Tarn,23,Vignobles et Bastides
+82,Tarn-et-Garonne,1,Aveyron-Lère
+82,Tarn-et-Garonne,2,Beaumont-de-Lomagne
+82,Tarn-et-Garonne,3,Castelsarrasin
+82,Tarn-et-Garonne,4,Garonne-Lomagne-Brulhois
+82,Tarn-et-Garonne,5,Moissac
+82,Tarn-et-Garonne,6,Montauban-1
+82,Tarn-et-Garonne,7,Montauban-2
+82,Tarn-et-Garonne,8,Montauban-3
+82,Tarn-et-Garonne,9,Montech
+82,Tarn-et-Garonne,10,Pays de Serres Sud-Quercy
+82,Tarn-et-Garonne,11,Quercy-Aveyron
+82,Tarn-et-Garonne,12,Quercy-Rouergue
+82,Tarn-et-Garonne,13,Tarn-Tescou-Quercy vert
+82,Tarn-et-Garonne,14,Valence
+82,Tarn-et-Garonne,15,Verdun-sur-Garonne
+83,Var,1,Brignoles
+83,Var,2,La Crau
+83,Var,3,Draguignan
+83,Var,4,Flayosc
+83,Var,5,Fréjus
+83,Var,6,La Garde
+83,Var,7,Garéoult
+83,Var,8,Hyères
+83,Var,9,Le Luc
+83,Var,10,Ollioules
+83,Var,11,Roquebrune-sur-Argens
+83,Var,12,Saint-Cyr-sur-Mer
+83,Var,13,Saint-Maximin-la-Sainte-Baume
+83,Var,14,Saint-Raphaël
+83,Var,15,Sainte-Maxime
+83,Var,16,La Seyne-sur-Mer-1
+83,Var,17,La Seyne-sur-Mer-2
+83,Var,18,Solliès-Pont
+83,Var,19,Toulon-1
+83,Var,20,Toulon-2
+83,Var,21,Toulon-3
+83,Var,22,Toulon-4
+83,Var,23,Vidauban
+84,Vaucluse,1,Apt
+84,Vaucluse,2,Avignon-1
+84,Vaucluse,3,Avignon-2
+84,Vaucluse,4,Avignon-3
+84,Vaucluse,5,Bollène
+84,Vaucluse,6,Carpentras
+84,Vaucluse,7,Cavaillon
+84,Vaucluse,8,Cheval-Blanc
+84,Vaucluse,9,L'Isle-sur-la-Sorgue
+84,Vaucluse,10,Monteux
+84,Vaucluse,11,Orange
+84,Vaucluse,12,Pernes-les-Fontaines
+84,Vaucluse,13,Pertuis
+84,Vaucluse,14,Le Pontet
+84,Vaucluse,15,Sorgues
+84,Vaucluse,16,Vaison-la-Romaine
+84,Vaucluse,17,Valréas
+85,Vendée,1,Aizenay
+85,Vendée,2,Challans
+85,Vendée,3,Chantonnay
+85,Vendée,4,La Châtaigneraie
+85,Vendée,5,Fontenay-le-Comte
+85,Vendée,6,Les Herbiers
+85,Vendée,7,L'Ile-d'Yeu
+85,Vendée,8,Luçon
+85,Vendée,9,Mareuil-sur-Lay-Dissais
+85,Vendée,10,Montaigu
+85,Vendée,11,Mortagne-sur-Sèvre
+85,Vendée,12,La Roche-sur-Yon-1
+85,Vendée,13,La Roche-sur-Yon-2
+85,Vendée,14,Les Sables-d'Olonne
+85,Vendée,15,Saint-Hilaire-de-Riez
+85,Vendée,16,Saint-Jean-de-Monts
+85,Vendée,17,Talmont-Saint-Hilaire
+86,Vienne,1,Chasseneuil-du-Poitou
+86,Vienne,2,Châtellerault-1
+86,Vienne,3,Châtellerault-2
+86,Vienne,4,Châtellerault-3
+86,Vienne,5,Chauvigny
+86,Vienne,6,Civray
+86,Vienne,7,Jaunay-Clan
+86,Vienne,8,Loudun
+86,Vienne,9,Lusignan
+86,Vienne,10,Lussac-les-Châteaux
+86,Vienne,11,Migné-Auxances
+86,Vienne,12,Montmorillon
+86,Vienne,13,Poitiers-1
+86,Vienne,14,Poitiers-2
+86,Vienne,15,Poitiers-3
+86,Vienne,16,Poitiers-4
+86,Vienne,17,Poitiers-5
+86,Vienne,18,Vivonne
+86,Vienne,19,Vouneuil-sous-Biard
+87,Haute-Vienne,1,Aixe-sur-Vienne
+87,Haute-Vienne,2,Ambazac
+87,Haute-Vienne,3,Bellac
+87,Haute-Vienne,4,Châteauponsac
+87,Haute-Vienne,5,Condat-sur-Vienne
+87,Haute-Vienne,6,Couzeix
+87,Haute-Vienne,7,Eymoutiers
+87,Haute-Vienne,8,Limoges-1
+87,Haute-Vienne,9,Limoges-2
+87,Haute-Vienne,10,Limoges-3
+87,Haute-Vienne,11,Limoges-4
+87,Haute-Vienne,12,Limoges-5
+87,Haute-Vienne,13,Limoges-6
+87,Haute-Vienne,14,Limoges-7
+87,Haute-Vienne,15,Limoges-8
+87,Haute-Vienne,16,Limoges-9
+87,Haute-Vienne,17,Panazol
+87,Haute-Vienne,18,Rochechouart
+87,Haute-Vienne,19,Saint-Junien
+87,Haute-Vienne,20,Saint-Léonard-de-Noblat
+87,Haute-Vienne,21,Saint-Yrieix-la-Perche
+88,Vosges,1,La Bresse
+88,Vosges,2,Bruyères
+88,Vosges,3,Charmes
+88,Vosges,4,Darney
+88,Vosges,5,Epinal-1
+88,Vosges,6,Epinal-2
+88,Vosges,7,Gérardmer
+88,Vosges,8,Golbey
+88,Vosges,9,Mirecourt
+88,Vosges,10,Neufchâteau
+88,Vosges,11,Raon-l'Etape
+88,Vosges,12,Remiremont
+88,Vosges,13,Saint-Dié-des-Vosges-1
+88,Vosges,14,Saint-Dié-des-Vosges-2
+88,Vosges,15,Le Thillot
+88,Vosges,16,Le Val-d'Ajol
+88,Vosges,17,Vittel
+89,Yonne,1,Auxerre-1
+89,Yonne,2,Auxerre-2
+89,Yonne,3,Auxerre-3
+89,Yonne,4,Auxerre-4
+89,Yonne,5,Avallon
+89,Yonne,6,Brienon-sur-Armançon
+89,Yonne,7,Chablis
+89,Yonne,8,Charny
+89,Yonne,9,Cœur de Puisaye
+89,Yonne,10,Gâtinais en Bourgogne
+89,Yonne,11,Joigny
+89,Yonne,12,Joux-la-Ville
+89,Yonne,13,Migennes
+89,Yonne,14,Pont-sur-Yonne
+89,Yonne,15,Saint-Florentin
+89,Yonne,16,Sens-1
+89,Yonne,17,Sens-2
+89,Yonne,18,Thorigny-sur-Oreuse
+89,Yonne,19,Tonnerrois
+89,Yonne,20,Villeneuve-sur-Yonne
+89,Yonne,21,Vincelles
+90,Territoire de Belfort,1,Bavilliers
+90,Territoire de Belfort,2,Belfort-1
+90,Territoire de Belfort,3,Belfort-2
+90,Territoire de Belfort,4,Belfort-3
+90,Territoire de Belfort,5,Châtenois-les-Forges
+90,Territoire de Belfort,6,Delle
+90,Territoire de Belfort,7,Giromagny
+90,Territoire de Belfort,8,Grandvillars
+90,Territoire de Belfort,9,Valdoie
+91,Essonne,1,Arpajon
+91,Essonne,2,Athis-Mons
+91,Essonne,3,Brétigny-sur-Orge
+91,Essonne,4,Corbeil-Essonnes
+91,Essonne,5,Dourdan
+91,Essonne,6,Draveil
+91,Essonne,7,Epinay-sous-Sénart
+91,Essonne,8,Etampes
+91,Essonne,9,Evry
+91,Essonne,10,Gif-sur-Yvette
+91,Essonne,11,Longjumeau
+91,Essonne,12,Massy
+91,Essonne,13,Mennecy
+91,Essonne,14,Palaiseau
+91,Essonne,15,Ris-Orangis
+91,Essonne,16,Sainte-Geneviève-des-Bois
+91,Essonne,17,Savigny-sur-Orge
+91,Essonne,18,Les Ulis
+91,Essonne,19,Vigneux-sur-Seine
+91,Essonne,20,Viry-Châtillon
+91,Essonne,21,Yerres
+92,Hauts-de-Seine,1,Antony
+92,Hauts-de-Seine,2,Asnières-sur-Seine
+92,Hauts-de-Seine,3,Bagneux
+92,Hauts-de-Seine,4,Boulogne-Billancourt-1
+92,Hauts-de-Seine,5,Boulogne-Billancourt-2
+92,Hauts-de-Seine,6,Châtenay-Malabry
+92,Hauts-de-Seine,7,Châtillon
+92,Hauts-de-Seine,8,Clamart
+92,Hauts-de-Seine,9,Clichy
+92,Hauts-de-Seine,10,Colombes-1
+92,Hauts-de-Seine,11,Colombes-2
+92,Hauts-de-Seine,12,Courbevoie-1
+92,Hauts-de-Seine,13,Courbevoie-2
+92,Hauts-de-Seine,14,Gennevilliers
+92,Hauts-de-Seine,15,Issy-les-Moulineaux
+92,Hauts-de-Seine,16,Levallois-Perret
+92,Hauts-de-Seine,17,Meudon
+92,Hauts-de-Seine,18,Montrouge
+92,Hauts-de-Seine,19,Nanterre-1
+92,Hauts-de-Seine,20,Nanterre-2
+92,Hauts-de-Seine,21,Neuilly-sur-Seine
+92,Hauts-de-Seine,22,Rueil-Malmaison
+92,Hauts-de-Seine,23,Saint-Cloud
+93,Seine-Saint-Denis,1,Aubervilliers
+93,Seine-Saint-Denis,2,Aulnay-sous-Bois
+93,Seine-Saint-Denis,3,Bagnolet
+93,Seine-Saint-Denis,4,Le Blanc-Mesnil
+93,Seine-Saint-Denis,5,Bobigny
+93,Seine-Saint-Denis,6,Bondy
+93,Seine-Saint-Denis,7,La Courneuve
+93,Seine-Saint-Denis,8,Drancy
+93,Seine-Saint-Denis,9,Epinay-sur-Seine
+93,Seine-Saint-Denis,10,Gagny
+93,Seine-Saint-Denis,11,Livry-Gargan
+93,Seine-Saint-Denis,12,Montreuil-1
+93,Seine-Saint-Denis,13,Montreuil-2
+93,Seine-Saint-Denis,14,Noisy-le-Grand
+93,Seine-Saint-Denis,15,Pantin
+93,Seine-Saint-Denis,16,Saint-Denis-1
+93,Seine-Saint-Denis,17,Saint-Denis-2
+93,Seine-Saint-Denis,18,Saint-Ouen
+93,Seine-Saint-Denis,19,Sevran
+93,Seine-Saint-Denis,20,Tremblay-en-France
+93,Seine-Saint-Denis,21,Villemomble
+94,Val-de-Marne,1,Alfortville
+94,Val-de-Marne,2,Cachan
+94,Val-de-Marne,3,Champigny-sur-Marne-1
+94,Val-de-Marne,4,Champigny-sur-Marne-2
+94,Val-de-Marne,5,Charenton-le-Pont
+94,Val-de-Marne,6,Choisy-le-Roi
+94,Val-de-Marne,7,Créteil-1
+94,Val-de-Marne,8,Créteil-2
+94,Val-de-Marne,9,Fontenay-sous-Bois
+94,Val-de-Marne,10,L'Haÿ-les-Roses
+94,Val-de-Marne,11,Ivry-sur-Seine
+94,Val-de-Marne,12,Le Kremlin-Bicêtre
+94,Val-de-Marne,13,Maisons-Alfort
+94,Val-de-Marne,14,Nogent-sur-Marne
+94,Val-de-Marne,15,Orly
+94,Val-de-Marne,16,Plateau briard
+94,Val-de-Marne,17,Saint-Maur-des-Fossés-1
+94,Val-de-Marne,18,Saint-Maur-des-Fossés-2
+94,Val-de-Marne,19,Thiais
+94,Val-de-Marne,20,Villejuif
+94,Val-de-Marne,21,Villeneuve-Saint-Georges
+94,Val-de-Marne,22,Villiers-sur-Marne
+94,Val-de-Marne,23,Vincennes
+94,Val-de-Marne,24,Vitry-sur-Seine-1
+94,Val-de-Marne,25,Vitry-sur-Seine-2
+95,Val-d'Oise,1,Argenteuil-1
+95,Val-d'Oise,2,Argenteuil-2
+95,Val-d'Oise,3,Argenteuil-3
+95,Val-d'Oise,4,Cergy-1
+95,Val-d'Oise,5,Cergy-2
+95,Val-d'Oise,6,Deuil-la-Barre
+95,Val-d'Oise,7,Domont
+95,Val-d'Oise,8,Ermont
+95,Val-d'Oise,9,Fosses
+95,Val-d'Oise,10,Franconville
+95,Val-d'Oise,11,Garges-lès-Gonesse
+95,Val-d'Oise,12,Goussainville
+95,Val-d'Oise,13,Herblay
+95,Val-d'Oise,14,L'Isle-Adam
+95,Val-d'Oise,15,Montmorency
+95,Val-d'Oise,16,Pontoise
+95,Val-d'Oise,17,Saint-Ouen-l'Aumône
+95,Val-d'Oise,18,Sarcelles
+95,Val-d'Oise,19,Taverny
+95,Val-d'Oise,20,Vauréal
+95,Val-d'Oise,21,Villiers-le-Bel
+ZA,Guadeloupe,1,Les Abymes-1
+ZA,Guadeloupe,2,Les Abymes-2
+ZA,Guadeloupe,3,Les Abymes-3
+ZA,Guadeloupe,4,Baie-Mahault-1
+ZA,Guadeloupe,5,Baie-Mahault-2
+ZA,Guadeloupe,6,Basse-Terre
+ZA,Guadeloupe,7,Capesterre-Belle-Eau
+ZA,Guadeloupe,8,Le Gosier
+ZA,Guadeloupe,9,Lamentin
+ZA,Guadeloupe,10,Marie-Galante
+ZA,Guadeloupe,11,Le Moule
+ZA,Guadeloupe,12,Morne-à-l'Eau
+ZA,Guadeloupe,13,Petit-Bourg
+ZA,Guadeloupe,14,Petit-Canal
+ZA,Guadeloupe,15,Pointe-à-Pitre
+ZA,Guadeloupe,16,Saint-François
+ZA,Guadeloupe,17,Sainte-Anne
+ZA,Guadeloupe,18,Sainte-Rose-1
+ZA,Guadeloupe,19,Sainte-Rose-2
+ZA,Guadeloupe,20,Trois-Rivières
+ZA,Guadeloupe,21,Vieux-Habitants
+ZB,Martinique,1,Canton fictif
+ZC,Guyane,1,Canton fictif
+ZD,La Réunion,1,L'Etang-Salé
+ZD,La Réunion,2,Le Port
+ZD,La Réunion,3,La Possession
+ZD,La Réunion,4,Saint-André-1
+ZD,La Réunion,5,Saint-André-2
+ZD,La Réunion,6,Saint-André-3
+ZD,La Réunion,7,Saint-Benoît-1
+ZD,La Réunion,8,Saint-Benoît-2
+ZD,La Réunion,9,Saint-Denis-1
+ZD,La Réunion,10,Saint-Denis-2
+ZD,La Réunion,11,Saint-Denis-3
+ZD,La Réunion,12,Saint-Denis-4
+ZD,La Réunion,13,Saint-Joseph
+ZD,La Réunion,14,Saint-Leu
+ZD,La Réunion,15,Saint-Louis-1
+ZD,La Réunion,16,Saint-Louis-2
+ZD,La Réunion,17,Saint-Paul-1
+ZD,La Réunion,18,Saint-Paul-2
+ZD,La Réunion,19,Saint-Paul-3
+ZD,La Réunion,20,Saint-Pierre-1
+ZD,La Réunion,21,Saint-Pierre-2
+ZD,La Réunion,22,Saint-Pierre-3
+ZD,La Réunion,23,Sainte-Marie
+ZD,La Réunion,24,Le Tampon-1
+ZD,La Réunion,25,Le Tampon-2
+ZM,Mayotte,1,Bandraboua
+ZM,Mayotte,2,Bouéni
+ZM,Mayotte,3,Dembéni
+ZM,Mayotte,4,Dzaoudzi
+ZM,Mayotte,5,Koungou
+ZM,Mayotte,6,Mamoudzou-1
+ZM,Mayotte,7,Mamoudzou-2
+ZM,Mayotte,8,Mamoudzou-3
+ZM,Mayotte,9,Mtsamboro
+ZM,Mayotte,10,Ouangani
+ZM,Mayotte,11,Pamandzi
+ZM,Mayotte,12,Sada
+ZM,Mayotte,13,Tsingoni
+ZN,Nouvelle-Calédonie,1,ILES - LIFOU (fictif)
+ZN,Nouvelle-Calédonie,2,NORD - KONE (fictif)
+ZN,Nouvelle-Calédonie,3,SUD - NOUMEA (fictif)
+ZP,Polynésie française,1,IDV (fictif)
+ZP,Polynésie française,2,ISLV (fictif)
+ZP,Polynésie française,3,TUAMOTU OUEST (fictif)
+ZP,Polynésie française,4,GAMBIER et T. EST (fictif)
+ZP,Polynésie française,5,MARQUISES (fictif)
+ZP,Polynésie française,6,AUSTRALES (fictif)
+ZS,Saint-Pierre-et-Miquelon,1,Canton fictif
+ZW,Wallis et Futuna,1,1er CANTON
+ZX,Saint-Martin/Saint-Barthélemy,1,1er Canton
+ZZ,Français établis hors de France,1,Canton fictif
