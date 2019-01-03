@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.model_selection import KFold
+from sklearn.model_selection import train_test_split
+from sklearn import linear_model
+
+    
+fillonData = pd.read_csv('fillonData.csv', encoding='latin-1')
+
+
+def crossValidation(data,algo,nb_folds):
+    newData = []	
+    for row in data:
+        newData.append(row[0:])
+        X = np.array(data)
+    y = X[:,X.shape[1]-1]           # '% Voix/Exp' is the last column
+    X = np.delete(X,X.shape[1]-1,1)
+    
+    kf = KFold(n_splits=nb_folds, shuffle=True)
+    
+    totalInstances = 0
+    totalCorrect = 0
+    
+    for train_index, test_index in kf.split(fillonData):
+        # print("train : ", train_index, "test : ", test_index)
+        X_train, X_test = X[train_index], X[test_index]
+        y_train, y_test = y[train_index], y[test_index]
+        
+        trainSet = X[train_index]
+        testSet = X[test_index]
+        trainLabels = y[train_index]
+        testLabels = y[test_index]
+
+        predictedLabels = algo(trainSet, trainLabels, testSet)
+        
+        correct = 0	
+        for i in range(testSet.shape[0]):
+            if predictedLabels[i] == testLabels[i]:
+                correct += 1
+            
+        print ('success : ' + str(correct/testLabels.size))
+        totalCorrect += correct
+        totalInstances += testLabels.size
+    print ('total success : ' + str(totalCorrect/totalInstances))
+
+# =============================================================================
+# plt.plot(fillonData['% Voix/Exp'], fillonData['Médiane du niveau vie en 2015'], 'ro', markersize=1)
+# # plt.show()
+# 
+# 
+# X = np.matrix([np.ones(fillonData.shape[0]), fillonData['Médiane du niveau vie en 2015'].as_matrix()]).T
+# y = np.matrix(fillonData['% Voix/Exp']).T
+# 
+# theta = np.linalg.inv(X.T.dot(X)).dot(X.T).dot(y)
+# 
+# plt.plot([0,1], [theta.item(0),theta.item(0) + theta.item(1)], linestyle='--', c='#000000')
+# 
+# plt.show()
+# train, test = train_test_split(fillonData, train_size=0.8, test_size=0.2)
+# =============================================================================
+
+train, test = train_test_split(fillonData, train_size=0.8, test_size=0.2)
