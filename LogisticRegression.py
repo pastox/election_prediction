@@ -4,6 +4,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import scipy.optimize as op
 import statistics
 from sklearn.model_selection import KFold
 from sklearn.model_selection import train_test_split
@@ -33,13 +34,55 @@ def match(x):
     return (0)
 
 
-def linearRegression(X_train,y_train,X_test):
-    reg = LinearRegression().fit(X_train, y_train)
-    # print(reg.coef_)
-    result = reg.predict(X_test)
-    for k in range (result.size):
-        result[k] = round(result[k])
-    return (result)
+# logistic regression
+    
+def sigmoid(z):
+    return 1.0 / (1 + np.exp(-z))
+
+def computeCost(theta, X_train, y_train): 
+	# Computes the cost of using theta as the parameter for logistic regression. 
+	m = X_train.shape[0]
+	J = 0
+	for i in range(m):
+		J += (-y_train[i] * np.log(sigmoid(np.dot(X_train[i,:],theta))) - (1 - y_train[i]) * np.log(1 - sigmoid(np.dot(X_train[i,:],theta))))	
+	J /= m
+	return J
+
+def computeGrad(theta, X_train, y_train):
+	# Computes the gradient of the cost with respect to the parameters.
+	m = X_train.shape[0]
+	grad = np.zeros(theta.size)
+	for i in range(theta.shape[0]):
+	    for j in range(m):
+	        grad[i] += (sigmoid(np.dot(X_train[j,:],theta)) - y_train[j]) * X_train[j,i]		
+	grad /= m
+	return grad
+
+def predict(theta, X):
+	p = np.zeros(X.shape[0])
+	for i in range(X.shape[0]):
+		p[i] = sigmoid(np.dot(X[i,:],theta))
+	return p
+
+def addIntercept(X):
+    X_new = np.ones((X.shape[0],X.shape[1]+1))
+    for i in range (X.shape[0]) :
+        for j in range (X.shape[1]) :
+                X_new[i,j+1] = X[i,j]
+    return(X_new)
+    
+def logisticRegression_v1(X_train,y_train,X_test):
+    
+    X_train = addIntercept(X_train)
+    X_test = addIntercept(X_test)
+    
+    initial_theta = np.zeros((X_train.shape[1],1))
+    
+    Result = op.minimize(fun = computeCost, x0 = initial_theta, args = (X_train, y_train), method = 'TNC',jac = computeGrad);
+    theta = Result.x;
+    
+    p = predict(np.array(theta), X_test)
+    return (p)
 
 
 def crossValidation(data,algo,nb_folds):
@@ -47,9 +90,7 @@ def crossValidation(data,algo,nb_folds):
     list_var=data.columns.drop(['% Voix/Exp','Département','Code Canton'])
     X = np.array(data[list_var])
     y = np.array(data['% Voix/Exp'])
-    for k in range (y.size) :
-        y[k] = match(y[k])
-
+    
     kf = KFold(n_splits=nb_folds, shuffle=True)
     
     totalInstances = 0
@@ -65,7 +106,7 @@ def crossValidation(data,algo,nb_folds):
         
         correct = 0	
         for i in range(y_test.size):
-            if y_predicted[i] == y_test[i] :
+            if match(y_predicted[i]) == match(y_test[i]) :
                 correct += 1
            
         print ('CORRECT :',str(correct/y_test.size))
@@ -75,19 +116,19 @@ def crossValidation(data,algo,nb_folds):
 
 
 
-###
 
-print('\n Macron')
-crossValidation(macronData,linearRegression,5)
 
-print('\n Fillon')
-crossValidation(fillonData,linearRegression,5)
-
-print('\n Le Pen')
-crossValidation(lepenData,linearRegression,5)
-
-print('\n Hamon')
-crossValidation(hamonData,linearRegression,5)
-
-print('\n Mélenchon')
-crossValidation(melenchonData,linearRegression,5)
+#print('\n Macron')
+#crossValidation(macronData,logisticRegression,5)
+#
+#print('\n Fillon')
+#crossValidation(fillonData,logisticRegression,5)
+#
+#print('\n Le Pen')
+#crossValidation(lepenData,logisticRegression,5)
+#
+#print('\n Hamon')
+#crossValidation(hamonData,logisticRegression,5)
+#
+#print('\n Mélenchon')
+#crossValidation(melenchonData,logisticRegression,5)

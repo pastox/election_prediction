@@ -51,27 +51,8 @@ cantonsData = pd.read_csv('cantonsData.csv', encoding='latin-1')
 # linear regression algorithm
 
 def linearRegression(X_train,y_train,X_test):
-    reg = LinearRegression().fit(X_train, y_train)
+    reg = LinearRegression(fit_intercept=False).fit(X_train, y_train)
     return(reg.predict(X_test))
-
-# =============================================================================
-# PAS PERTINENT
-#
-# def linearRegression_v2(X_train,y_train,X_test):
-#     reg = LinearRegression().fit(X_train, y_train)
-#     coef = reg.coef_
-#     # compute the median
-#     m = np.median(np.abs(coef))
-#     # delete weights under the median
-#     suppr=[]
-#     for i in range(len(coef)):
-#         if abs(coef[i]) < m :
-#             suppr.append(i)
-#     X_train2 = np.delete(X_train,suppr,1)
-#     X_test2 = np.delete(X_test,suppr,1)
-#     reg2 = LinearRegression().fit(X_train2, y_train)
-#     return(reg2.predict(X_test2))
-# =============================================================================
 
 # =============================================================================
 # 1 DIMENSION
@@ -91,10 +72,16 @@ def linearRegression(X_train,y_train,X_test):
 
 # cross validation algorithm
 
-def crossValidation(data,algo,nb_folds):
-    
+def crossValidation(data,algo,nb_folds) :
+    # X : add intercept term, delete id
     list_var=data.columns.drop(['% Voix/Exp','Département','Code Canton'])
     X = np.array(data[list_var])
+    X_new = np.ones((X.shape[0],X.shape[1]+1))
+    for i in range (X.shape[0]) :
+        for j in range (X.shape[1]) :
+                X_new[i,j+1] = X[i,j]
+    X = X_new
+    # y
     y = np.array(data['% Voix/Exp'])
     
     kf = KFold(n_splits=nb_folds, shuffle=True)
