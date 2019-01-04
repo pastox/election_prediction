@@ -88,9 +88,9 @@ def crossValidation(data,algo,nb_folds) :
     
     totalInstances = 0
     totalCorrect = 0
+    totalGap = 0
     
-    
-    for train_index, test_index in kf.split(fillonData):
+    for train_index, test_index in kf.split(X):
         X_train = X[train_index]
         X_test = X[test_index]
         y_train = y[train_index]
@@ -98,15 +98,19 @@ def crossValidation(data,algo,nb_folds) :
 
         y_predicted = algo(X_train, y_train, X_test)
         
-        # If error percentage < 5%, we assume the prediction is satisfying
-        correct = 0	
+        # If error percentage < 25%, we assume the prediction is satisfying
+        correct = 0
+        gap = 0
         for i in range(y_test.size):
-            if np.abs(y_predicted[i]-y_test[i])/y_test[i] < 0.05 :
+            if np.abs(y_predicted[i]-y_test[i])/y_test[i] < 0.25 :
                 correct += 1
-        print ('CORRECT :',str(correct/y_test.size))
+            gap += np.abs(y_predicted[i]-y_test[i])
+        # print ('CORRECT :',str(correct/y_test.size))
+        print ('GAP :',str(gap/y_test.size))
         totalCorrect += correct
         totalInstances += y_test.size
-    print ('TOTAL CORRECT : ',str(totalCorrect/totalInstances))
+        totalGap += gap
+    print ('TOTAL GAP : ',str(totalGap/totalInstances))
 
 ###
 

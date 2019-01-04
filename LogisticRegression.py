@@ -7,9 +7,7 @@ import matplotlib.pyplot as plt
 import scipy.optimize as op
 import statistics
 from sklearn.model_selection import KFold
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import Lasso
+from sklearn.linear_model import LogisticRegression
 
 # import Data
 
@@ -71,7 +69,7 @@ def addIntercept(X):
                 X_new[i,j+1] = X[i,j]
     return(X_new)
     
-def logisticRegression_v1(X_train,y_train,X_test):
+def logisticRegression(X_train,y_train,X_test):
     
     X_train = addIntercept(X_train)
     X_test = addIntercept(X_test)
@@ -84,6 +82,7 @@ def logisticRegression_v1(X_train,y_train,X_test):
     p = predict(np.array(theta), X_test)
     return (p)
 
+# cross validation algorithm
 
 def crossValidation(data,algo,nb_folds):
 
@@ -95,8 +94,9 @@ def crossValidation(data,algo,nb_folds):
     
     totalInstances = 0
     totalCorrect = 0
+    totalGap = 0
     
-    for train_index, test_index in kf.split(fillonData):
+    for train_index, test_index in kf.split(X):
         X_train = X[train_index]
         X_test = X[test_index]
         y_train = y[train_index]
@@ -105,14 +105,18 @@ def crossValidation(data,algo,nb_folds):
         y_predicted = algo(X_train, y_train, X_test)
         
         correct = 0	
+        gap = 0
         for i in range(y_test.size):
             if match(y_predicted[i]) == match(y_test[i]) :
                 correct += 1
-           
-        print ('CORRECT :',str(correct/y_test.size))
+            gap += abs(y_predicted[i]-y_test[i])
+            
+        # print ('CORRECT :',str(correct/y_test.size))
+        print ('GAP :',str(gap/y_test.size))
         totalCorrect += correct
         totalInstances += y_test.size
-    print ('TOTAL CORRECT : ',str(totalCorrect/totalInstances))
+        totalGap += gap
+    print ('TOTAL GAP : ',str(totalGap/totalInstances))
 
 
 
