@@ -54,24 +54,46 @@ def crossValidation(data,algo,nb_folds) :
         gap = 0
         for i in range(y_test.size):
             gap += np.abs(y_predicted[i]-y_test[i])/y_test[i]
-        print ('GAP :',str(gap/y_test.size))
+        # print ('GAP :',str(gap/y_test.size))
         totalInstances += y_test.size
         totalGap += gap
-    print ('TOTAL GAP : ',str(totalGap/totalInstances))
+    # print ('TOTAL GAP : ',str(totalGap/totalInstances))
+    return totalGap/totalInstances
 
 ###
 
-print('\n Macron')
-crossValidation(macronData,linearRegression,5)
+points = []
+for k in range (2,11):
+    points.append(crossValidation(macronData,linearRegression,k))
+plt.plot(points)
+plt.legend("Macron")
 
-print('\n Fillon')
-crossValidation(fillonData,linearRegression,5)
+points = []
+for k in range (2,11):
+    points.append(crossValidation(fillonData,linearRegression,k))
+plt.plot(points)
+plt.legend("Fillon")
 
-print('\n Le Pen')
-crossValidation(lepenData,linearRegression,5)
+points = []
+for k in range (2,11):
+    points.append(crossValidation(lepenData,linearRegression,k))
+plt.plot(points)
+plt.legend("Le Pen")
 
-print('\n Hamon')
-crossValidation(hamonData,linearRegression,5)
+points = []
+for k in range (2,11):
+    points.append(crossValidation(hamonData,linearRegression,k))
+plt.plot(points)
+plt.legend("Hamon")
 
-print('\n Mélenchon')
-crossValidation(melenchonData,linearRegression,5)
+points = []
+for k in range (2,11):
+    points.append(crossValidation(melenchonData,linearRegression,k))
+plt.plot(points)
+plt.legend("Mélenchon")
+
+print(crossValidation(macronData,linearRegression,4))
+print(crossValidation(fillonData,linearRegression,4))
+print(crossValidation(lepenData,linearRegression,4))
+print(crossValidation(hamonData,linearRegression,4))
+print(crossValidation(melenchonData,linearRegression,4))
