@@ -77,10 +77,10 @@ def crossValidation(data,algo,nb_folds,nb_neighbors):
         totalInstances += y_test.size
     # print('TOTAL CORRECT : ',str(totalCorrect/totalInstances))
     # print ('TOTAL GAP : ',str(totalGap/totalInstances))
-    return(totalCorrect/totalInstances)
+    return(totalGap/totalInstances)
 
 points=[]
-for k in range (1,50):
+for k in range (1,2):
     rate = 0 
     for j in range (5):
         rate += crossValidation(fillonData,nearestNeighbors,5,k)
